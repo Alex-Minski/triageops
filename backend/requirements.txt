@@ -1,0 +1,4 @@
+# Bundled into the Lambda layer (see `make layer`). boto3 is pinned in the layer
+# so the S3 Vectors client is guaranteed, whatever the runtime ships with.
+boto3>=1.40
+pydantic>=2.8,<3

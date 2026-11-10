@@ -1,0 +1,6 @@
+-r requirements.txt
+pytest>=8
+moto[dynamodb,s3,sqs,stepfunctions]>=5
+scikit-learn>=1.4
+pandas>=2.1
+numpy>=1.26

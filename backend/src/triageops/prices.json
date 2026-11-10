@@ -1,0 +1,9 @@
+{
+  "_comment": "USD per 1,000 tokens, on-demand. VERIFY against https://aws.amazon.com/bedrock/pricing/ before quoting any cost number; prices change and vary by region. Keys are matched as substrings of the model ID.",
+  "amazon.nova-micro": {"input_per_1k": 0.000035, "output_per_1k": 0.00014},
+  "amazon.nova-lite": {"input_per_1k": 0.00006, "output_per_1k": 0.00024},
+  "amazon.nova-pro": {"input_per_1k": 0.0008, "output_per_1k": 0.0032},
+  "amazon.titan-embed-text-v2": {"input_per_1k": 0.00002, "output_per_1k": 0.0},
+  "anthropic.claude-haiku-4-5": {"input_per_1k": 0.001, "output_per_1k": 0.005},
+  "anthropic.claude-sonnet-4-5": {"input_per_1k": 0.003, "output_per_1k": 0.015}
+}
