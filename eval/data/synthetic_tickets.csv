@@ -1,0 +1,901 @@
+title,description,category,priority,team
+malware alert,Defender flagged a trojan on my machine. My whole team has the same problem. Cheers,security,P1,security_ops
+Wi-Fi down,Wi-Fi keeps dropping in the meeting rooms. I can work around it for now. Cheers,network,P3,network_ops
+Defender detected threat,my computer shows a warning that a threat was quarantined. This is blocking me completely. Thanks.,security,P2,security_ops
+software install request,"Hello IT, could you install Python 3 on my laptop. No rush.",software,P4,desktop_support
+How do I change my password?,what's the process to reset my password myself?.  Please help.,access,P4,service_desk
+VPN won't connect,"Hello IT, GlobalProtect is stuck on connecting. It's annoying but I can manage. Cheers",network,P3,network_ops
+Need access to shared drive,I need permission to the new Jira project for onboarding. No rush. Thanks.,access,P4,identity
+VPN keeps dropping,"Hello IT, the VPN disconnects every ten minutes. This is blocking me completely. Thanks.",network,P2,network_ops
+Unrecognized MFA prompt,"Hi, I got an MFA prompt I didn't trigger. I can't do any work until this is fixed. Thanks.",security,P2,security_ops
+Adobe won't open,Acrobat freezes and then closes when opening PDFs. I'm totally stuck. Thanks.,software,P2,desktop_support
+Software install request,"Good morning, I need Visio installed for a project. No rush. Thanks in advance!",software,P4,desktop_support
+Emails stuck in outbox,"Good morning, I'm not receiving any external emails. This is blocking me completely. Cheers",email,P2,applications
+Phishing?,"Hi, received an invoice email with a zip attachment from someone I don't know. I can't do any work until this is fixed. Cheers",security,P3,security_ops
+MFA not working,the authenticator app codes keep getting rejected. I'm totally stuck. Please help.,access,P2,identity
+Intranet unreachable,internal sites time out but google works. The entire office is affected. Cheers,network,P1,network_ops
+Antivirus warning,"Hello IT, Defender flagged a trojan on my machine. I can work around it for now. Cheers",security,P2,security_ops
+Calendar invites missing,"Hi, I'm getting mailbox full warnings and can't send. It's annoying but I can manage. Thanks.",email,P3,applications
+Dock issue,the dock stopped charging my laptop. All sites are reporting it right now.,hardware,P1,desktop_support
+Workday error,Workday throws an error when I submit my timesheet. It's annoying but I can manage. Please help.,software,P3,applications
+Add me to distribution list,"Good morning, please add me to the all-engineering distribution list.  Thanks.",email,P4,applications
+I entered my password on a fake page,"Hello IT, I clicked a link in an email and entered my password before realizing it was fake. All sites are reporting it right now. Please help.",security,P1,security_ops
+Antivirus warning,"Hi, antivirus popped up saying ransomware behaviour blocked. About ten of us are affected.",security,P1,security_ops
+Weird login link,"Hi, it's not working again, please help. I can't do any work until this is fixed.",security,P3,security_ops
+Install Python,"Hey team, please install Power BI Desktop. No rush. Thanks.",software,P4,desktop_support
+weird login link,"Hi, an email from 'IT Support' wants my password to keep my mailbox active. Not urgent, I can use another machine.",security,P3,security_ops
+No internet,"it's not working again, please help. I'm totally stuck. Please help.",network,P2,network_ops
+Password reset question,"Hi, how often do we have to change passwords?. No rush. Please help.",access,P4,service_desk
+Can't reach internal site,"Good morning, the intranet site won't resolve. I'm totally stuck.",network,P2,network_ops
+Request: second monitor,"Hey team, my keyboard's letters are worn off, can I get a new one. Whenever you get a chance.",hardware,P4,desktop_support
+Account locked,"Good morning, it says my account is locked when I sign in. This is happening company-wide. Please help.",access,P1,identity
+Workday error,something is wrong with my computer. I'm totally stuck.,software,P2,applications
+Mailbox full,"Hi, meeting invites don't show up in my calendar. It's annoying but I can manage.",email,P3,applications
+Suspicious sign-in,"Good morning, my account shows a sign-in from another country. It's annoying but I can manage.",security,P2,security_ops
+Slow network,"Hi, the network is extremely slow, pages take a minute to load. This is blocking me completely. Thanks in advance!",network,P2,network_ops
+VPN won't connect,GlobalProtect is stuck on connecting. This is blocking me completely.,network,P2,network_ops
+Suspicious email,"Hello IT, got an email asking me to verify my payroll login through a strange link. I'm totally stuck.",security,P3,security_ops
+Question about Teams channels,"Hello IT, how do I share a OneDrive file with someone outside the company?. Whenever you get a chance. Cheers",software,P4,service_desk
+Defender detected threat,Defender flagged a trojan on my machine. I'm totally stuck. Thanks.,security,P2,security_ops
+Password reset question,"Hello IT, what's the process to reset my password myself?. Whenever you get a chance. Thanks.",access,P4,service_desk
+adobe won't open,"Hey team, Teams closes itself right after launching. I can work around it for now. Thanks in advance!",software,P3,desktop_support
+Install Python,"Hey team, please install Power BI Desktop. Whenever you get a chance. Cheers",software,P4,desktop_support
+add me to distribution list,"Hi, please add me to the all-engineering distribution list. No rush. Cheers",email,P4,applications
+How to share a OneDrive file,something is wrong with my computer. No rush. Thanks in advance!,software,P4,service_desk
+Headset request,"Hey team, could I get a second monitor for my desk. Whenever you get a chance. Cheers",hardware,P4,desktop_support
+Request: second monitor,"Hey team, something is wrong with my computer. Whenever you get a chance. Thanks.",hardware,P4,desktop_support
+How do I change my password?,"Hey team, how often do we have to change passwords?. Whenever you get a chance. Thanks in advance!",access,P4,service_desk
+Request: second monitor,"Hello IT, could I get a second monitor for my desk.  Thanks in advance!",hardware,P4,desktop_support
+Teams crashes on start,"Good morning, Acrobat freezes and then closes when opening PDFs. I'm totally stuck. Thanks in advance!",software,P2,desktop_support
+how do i change my password?,"Hello IT, how often do we have to change passwords?.",access,P4,service_desk
+No internet,"Good morning, the network is extremely slow, pages take a minute to load. About ten of us are affected.",network,P2,network_ops
+suspicious email,"Hello IT, same problem as last week, still broken. Not urgent, I can use another machine. Please help.",security,P3,security_ops
+Login from another country,"Hello IT, I'm getting login approval requests at 3am that aren't me. I can't do any work until this is fixed. Cheers",security,P2,security_ops
+No internet,"Hey team, no internet on my wired connection since this morning. I'm totally stuck. Please help.",network,P2,network_ops
+Dock issue,"Hello IT, the dock stopped charging my laptop. I'm totally stuck. Thanks in advance!",hardware,P2,desktop_support
+Weird login link,"Hi, received an invoice email with a zip attachment from someone I don't know. This is blocking me completely. Cheers",security,P3,security_ops
+Dock issue,"Hello IT, my external monitors aren't detected through the dock. It's annoying but I can manage.",hardware,P3,desktop_support
+headset request,"Hi, my keyboard's letters are worn off, can I get a new one. No rush.",hardware,P4,desktop_support
+Not receiving email,"Hey team, Outlook hasn't synced new mail since yesterday. I'm totally stuck. Please help.",email,P2,applications
+Black screen on boot,"Hi, laptop shuts off randomly after a few minutes. I can work around it for now. Thanks.",hardware,P3,desktop_support
+Shared mailbox gone,"Hey team, meeting invites don't show up in my calendar. I can't do any work until this is fixed. Cheers",email,P2,applications
+I entered my password on a fake page,"Hey team, I opened an attachment and now my laptop is acting strange. I'm totally stuck. Cheers",security,P2,security_ops
+Dock issue,"Hello IT, both monitors flicker every few seconds. I can't do any work until this is fixed. Cheers",hardware,P2,desktop_support
+New keyboard please,"Hi, my keyboard's letters are worn off, can I get a new one. No rush. Thanks in advance!",hardware,P4,desktop_support
+add me to distribution list,"Hi, please add me to the all-engineering distribution list. No rush. Thanks.",email,P4,applications
+No internet,"Hey team, the network is extremely slow, pages take a minute to load. I can't do any work until this is fixed. Please help.",network,P2,network_ops
+Weird login link,got an email asking me to verify my payroll login through a strange link. Everyone in accounting is seeing this. Thanks in advance!,security,P3,security_ops
+VPN keeps dropping,"Hi, GlobalProtect is stuck on connecting. Everyone in accounting is seeing this. Please help.",network,P2,network_ops
+No internet,"Hey team, Wi-Fi keeps dropping in the meeting rooms. I'm totally stuck. Thanks.",network,P2,network_ops
+Black screen on boot,"laptop shuts off randomly after a few minutes. Not urgent, I can use another machine.",hardware,P3,desktop_support
+Laptop dead,"Hey team, my laptop won't power on even when plugged in. Not urgent, I can use another machine. Thanks in advance!",hardware,P3,desktop_support
+VPN keeps dropping,"Good morning, the VPN disconnects every ten minutes. I can work around it for now.",network,P3,network_ops
+How to share a OneDrive file,"Hi, it's not working again, please help.  Thanks.",software,P4,service_desk
+Clicked a bad link,"Hi, I clicked a link in an email and entered my password before realizing it was fake. It's annoying but I can manage. Please help.",security,P2,security_ops
+how to share a onedrive file,how do I share a OneDrive file with someone outside the company?. No rush. Cheers,software,P4,service_desk
+Salesforce page won't load,"Hi, Salesforce opportunity pages just spin forever. This is happening company-wide.",software,P1,applications
+Malware alert,"Good morning, Defender flagged a trojan on my machine. This is blocking me completely.",security,P2,security_ops
+suspicious email,"Good morning, an email from 'IT Support' wants my password to keep my mailbox active. I'm totally stuck. Thanks in advance!",security,P3,security_ops
+No internet,"Hey team, Wi-Fi keeps dropping in the meeting rooms. This is blocking me completely. Thanks.",network,P2,network_ops
+Mailbox full,"Hey team, the shared support mailbox disappeared from Outlook. I'm totally stuck. Please help.",email,P2,applications
+Phishing?,"Hey team, an email from 'IT Support' wants my password to keep my mailbox active. My whole team has the same problem. Thanks.",security,P3,security_ops
+Weird login link,"Hello IT, received an invoice email with a zip attachment from someone I don't know. I can't do any work until this is fixed. Thanks.",security,P3,security_ops
+question about teams channels,"Hello IT, how do I create a private channel in Teams?. Whenever you get a chance. Cheers",software,P4,service_desk
+Printer jammed,"Hi, the printer keeps saying paper jam but there's no paper stuck. About ten of us are affected. Please help.",hardware,P2,desktop_support
+Emails stuck in outbox,"Hi, Outlook hasn't synced new mail since yesterday. I can work around it for now. Thanks in advance!",email,P3,applications
+Question about Teams channels,"Good morning, how do I create a private channel in Teams?. Whenever you get a chance. Thanks in advance!",software,P4,service_desk
+DNS issue,"Hello IT, internal sites time out but google works. I can work around it for now.",network,P3,network_ops
+Docking station not detecting monitors,"Good morning, my external monitors aren't detected through the dock. About ten of us are affected. Cheers",hardware,P2,desktop_support
+Password reset question,"Hello IT, what's the process to reset my password myself?. No rush.",access,P4,service_desk
+laptop dead,"Hi, my laptop won't power on even when plugged in. All sites are reporting it right now. Please help.",hardware,P1,desktop_support
+Can't log in to Windows,it says my account is locked when I sign in. This is blocking me completely. Thanks in advance!,access,P2,identity
+outlook not syncing,Outlook hasn't synced new mail since yesterday. I can't do any work until this is fixed. Thanks.,email,P2,applications
+Phishing?,"Hey team, got an email asking me to verify my payroll login through a strange link. The entire office is affected. Cheers",security,P1,security_ops
+Clicked a bad link,"Good morning, I think I typed my credentials into a phishing page. This is blocking me completely. Please help.",security,P2,security_ops
+Clicked a bad link,"Hi, I think I typed my credentials into a phishing page. The entire office is affected. Thanks.",security,P1,security_ops
+Need access to shared drive,"Hi, could I get read access to the Finance shared folder. No rush.",access,P4,identity
+I entered my password on a fake page,"Hey team, I opened an attachment and now my laptop is acting strange. Not urgent, I can use another machine.",security,P2,security_ops
+Adobe won't open,"Good morning, Acrobat freezes and then closes when opening PDFs. I can't do any work until this is fixed. Thanks.",software,P2,desktop_support
+Excel keeps crashing,"Good morning, Excel crashes whenever I open large files. Not urgent, I can use another machine. Thanks in advance!",software,P3,desktop_support
+intranet unreachable,"Hey team, internal sites time out but google works. This is blocking me completely. Please help.",network,P2,network_ops
+Authenticator codes rejected,"Good morning, same problem as last week, still broken. This is blocking me completely. Cheers",access,P2,identity
+Login from another country,"Hey team, I'm getting login approval requests at 3am that aren't me. I can work around it for now. Thanks in advance!",security,P2,security_ops
+Phishing?,"Hey team, received an invoice email with a zip attachment from someone I don't know. My whole team has the same problem. Thanks in advance!",security,P3,security_ops
+Password reset question,"Hello IT, what's the process to reset my password myself?. Whenever you get a chance. Please help.",access,P4,service_desk
+Add me to distribution list,"Hello IT, we need a shared mailbox for the new events team. No rush.",email,P4,applications
+GlobalProtect error,VPN says gateway not responding. I'm totally stuck. Thanks.,network,P2,network_ops
+I entered my password on a fake page,"Good morning, I think I typed my credentials into a phishing page. I can't do any work until this is fixed. Thanks.",security,P2,security_ops
+Intranet unreachable,"Hi, internal sites time out but google works. It's annoying but I can manage. Thanks.",network,P3,network_ops
+Can't log in to Windows,it says my account is locked when I sign in. I can work around it for now. Thanks.,access,P3,identity
+Salesforce page won't load,"Hi, Salesforce opportunity pages just spin forever. Not urgent, I can use another machine. Please help.",software,P3,applications
+VPN won't connect,"Hello IT, GlobalProtect is stuck on connecting. I can't do any work until this is fixed. Please help.",network,P2,network_ops
+Shared mailbox gone,"Good morning, meeting invites don't show up in my calendar. Not urgent, I can use another machine. Please help.",email,P3,applications
+Intranet unreachable,"Hey team, internal sites time out but google works. I'm totally stuck. Please help.",network,P2,network_ops
+Can't print,"Hey team, the printer keeps saying paper jam but there's no paper stuck. I can't do any work until this is fixed.",hardware,P2,desktop_support
+Not receiving email,"Hi, emails sit in my outbox and never send. I'm totally stuck. Please help.",email,P2,applications
+Black screen on boot,"Hey team, laptop shuts off randomly after a few minutes. I can't do any work until this is fixed.",hardware,P2,desktop_support
+Can't reach internal site,can't reach the file server by name. It's annoying but I can manage. Please help.,network,P3,network_ops
+Teams crashes on start,"Hello IT, Acrobat freezes and then closes when opening PDFs. I'm totally stuck. Cheers",software,P2,desktop_support
+need visio,please install Power BI Desktop. Whenever you get a chance. Cheers,software,P4,desktop_support
+Defender detected threat,antivirus popped up saying ransomware behaviour blocked. All sites are reporting it right now.,security,P1,security_ops
+workday error,"Hello IT, Workday throws an error when I submit my timesheet. I can't do any work until this is fixed. Please help.",software,P2,applications
+Shared mailbox gone,I'm getting mailbox full warnings and can't send. I can't do any work until this is fixed. Cheers,email,P2,applications
+Opened attachment,"Hey team, I clicked a link in an email and entered my password before realizing it was fake. I'm totally stuck. Thanks in advance!",security,P2,security_ops
+Suspicious sign-in,my account shows a sign-in from another country. All sites are reporting it right now. Please help.,security,P1,security_ops
+Phishing?,"Hello IT, received an invoice email with a zip attachment from someone I don't know. All sites are reporting it right now. Thanks.",security,P1,security_ops
+Outlook not syncing,"Hello IT, Outlook hasn't synced new mail since yesterday. This is blocking me completely.",email,P2,applications
+Login from another country,my account shows a sign-in from another country. It's annoying but I can manage. Cheers,security,P2,security_ops
+Workday error,"Good morning, Salesforce opportunity pages just spin forever. My whole team has the same problem. Thanks in advance!",software,P2,applications
+unrecognized mfa prompt,"Hello IT, I got an MFA prompt I didn't trigger. I'm totally stuck. Please help.",security,P2,security_ops
+How to share a OneDrive file,"Hey team, how do I share a OneDrive file with someone outside the company?. Whenever you get a chance. Thanks.",software,P4,service_desk
+New shared mailbox request,"Hey team, we need a shared mailbox for the new events team. No rush. Thanks in advance!",email,P4,applications
+Install Python,"Hi, I need Visio installed for a project. No rush. Please help.",software,P4,desktop_support
+New shared mailbox request,"Hey team, it's not working again, please help. Whenever you get a chance. Thanks in advance!",email,P4,applications
+Login from another country,I'm getting login approval requests at 3am that aren't me. I'm totally stuck. Thanks.,security,P2,security_ops
+Opened attachment,"Hey team, I opened an attachment and now my laptop is acting strange. The entire office is affected. Thanks in advance!",security,P1,security_ops
+password reset question,"Hey team, how often do we have to change passwords?. No rush.",access,P4,service_desk
+Add me to distribution list,"Good morning, we need a shared mailbox for the new events team. Whenever you get a chance. Please help.",email,P4,applications
+Laptop dead,"Hello IT, laptop shuts off randomly after a few minutes. Not urgent, I can use another machine.",hardware,P3,desktop_support
+Printer offline,"Hello IT, printer shows offline for everyone on the floor. This is happening company-wide. Cheers",hardware,P1,desktop_support
+Antivirus warning,"Hey team, Defender flagged a trojan on my machine. I can't do any work until this is fixed.",security,P2,security_ops
+Defender detected threat,"Hi, my computer shows a warning that a threat was quarantined. The entire office is affected. Thanks.",security,P1,security_ops
+Printer jammed,"Hi, print jobs sit in the queue and never print. I can work around it for now. Thanks in advance!",hardware,P3,desktop_support
+Clicked a bad link,"Good morning, I opened an attachment and now my laptop is acting strange. My whole team has the same problem. Thanks in advance!",security,P1,security_ops
+Password reset question,"Hi, how often do we have to change passwords?. No rush. Cheers",access,P4,service_desk
+Monitors flicker,"my external monitors aren't detected through the dock. Not urgent, I can use another machine. Please help.",hardware,P3,desktop_support
+How to share a OneDrive file,"Good morning, how do I create a private channel in Teams?.",software,P4,service_desk
+Unrecognized MFA prompt,"Hey team, can someone call me about this issue. I can't do any work until this is fixed. Please help.",security,P2,security_ops
+not receiving email,"Hi, emails sit in my outbox and never send. I can work around it for now.",email,P3,applications
+Opened attachment,"Good morning, I think I typed my credentials into a phishing page. This is blocking me completely. Cheers",security,P2,security_ops
+Mailbox full,"Good morning, the shared support mailbox disappeared from Outlook. It's annoying but I can manage. Thanks.",email,P3,applications
+New keyboard please,"my keyboard's letters are worn off, can I get a new one. Whenever you get a chance. Thanks in advance!",hardware,P4,desktop_support
+Login from another country,my account shows a sign-in from another country. All sites are reporting it right now.,security,P1,security_ops
+permission request: finance folder,"Hi, could I get read access to the Finance shared folder.  Cheers",access,P4,identity
+New shared mailbox request,"Hey team, please add me to the all-engineering distribution list. Whenever you get a chance.",email,P4,applications
+I entered my password on a fake page,"Hey team, I opened an attachment and now my laptop is acting strange. It's annoying but I can manage. Thanks.",security,P2,security_ops
+Question about Teams channels,"Hey team, how do I share a OneDrive file with someone outside the company?. Whenever you get a chance. Cheers",software,P4,service_desk
+Opened attachment,"Hello IT, I think I typed my credentials into a phishing page. I can't do any work until this is fixed.",security,P2,security_ops
+erp report failing,"Hey team, the month-end ERP report fails with a timeout. I can work around it for now.",software,P3,applications
+Malware alert,"Hey team, Defender flagged a trojan on my machine. My whole team has the same problem. Thanks in advance!",security,P1,security_ops
+Salesforce page won't load,the month-end ERP report fails with a timeout. Everyone in accounting is seeing this. Thanks.,software,P2,applications
+Clicked a bad link,"Hey team, I think I typed my credentials into a phishing page. Not urgent, I can use another machine. Cheers",security,P2,security_ops
+Excel keeps crashing,"Good morning, Acrobat freezes and then closes when opening PDFs. Not urgent, I can use another machine. Please help.",software,P3,desktop_support
+Workday error,"Hello IT, same problem as last week, still broken. I'm totally stuck. Thanks.",software,P2,applications
+Teams crashes on start,"Hi, Teams closes itself right after launching. Not urgent, I can use another machine. Thanks.",software,P3,desktop_support
+Headset request,requesting a headset for Teams calls.  Please help.,hardware,P4,desktop_support
+Authenticator codes rejected,"Good morning, the authenticator app codes keep getting rejected. I can't do any work until this is fixed. Please help.",access,P2,identity
+Antivirus warning,"Hi, antivirus popped up saying ransomware behaviour blocked. I can work around it for now. Cheers",security,P2,security_ops
+How to share a OneDrive file,"Good morning, how do I create a private channel in Teams?. No rush. Please help.",software,P4,service_desk
+VPN keeps dropping,GlobalProtect is stuck on connecting. This is blocking me completely. Cheers,network,P2,network_ops
+mailbox full,"Hi, meeting invites don't show up in my calendar. This is happening company-wide. Thanks.",email,P1,applications
+Excel keeps crashing,"Hey team, can someone call me about this issue. I'm totally stuck. Cheers",software,P2,desktop_support
+Intranet unreachable,"Hello IT, can't reach the file server by name. I'm totally stuck. Thanks.",network,P2,network_ops
+emails stuck in outbox,"Hello IT, I'm not receiving any external emails. This is blocking me completely. Cheers",email,P2,applications
+DNS issue,"Good morning, it's not working again, please help. Not urgent, I can use another machine. Cheers",network,P3,network_ops
+Intranet unreachable,"Hey team, can't reach the file server by name. All sites are reporting it right now. Cheers",network,P1,network_ops
+need visio,I need Visio installed for a project.  Please help.,software,P4,desktop_support
+Need Visio,could you install Python 3 on my laptop.  Thanks.,software,P4,desktop_support
+Intranet unreachable,"Hello IT, can't reach the file server by name. This is blocking me completely. Please help.",network,P2,network_ops
+Need Visio,"Hello IT, please install Power BI Desktop. No rush.",software,P4,desktop_support
+New shared mailbox request,"Good morning, we need a shared mailbox for the new events team. Whenever you get a chance. Thanks.",email,P4,applications
+Weird login link,"Hey team, got an email asking me to verify my payroll login through a strange link. This is happening company-wide. Thanks.",security,P1,security_ops
+Permission request: Finance folder,"Hello IT, I need permission to the new Jira project for onboarding. Whenever you get a chance. Thanks.",access,P4,identity
+Unrecognized MFA prompt,I got an MFA prompt I didn't trigger. This is blocking me completely. Thanks in advance!,security,P2,security_ops
+Printer offline,"Hello IT, printer shows offline for everyone on the floor. I can work around it for now.",hardware,P3,desktop_support
+Add me to distribution list,"Hey team, we need a shared mailbox for the new events team.  Thanks.",email,P4,applications
+Clicked a bad link,"Hi, I think I typed my credentials into a phishing page. This is blocking me completely. Please help.",security,P2,security_ops
+Can't reach internal site,"Hi, can't reach the file server by name. Not urgent, I can use another machine. Thanks in advance!",network,P3,network_ops
+Phishing?,"Hey team, an email from 'IT Support' wants my password to keep my mailbox active. About ten of us are affected. Thanks.",security,P3,security_ops
+Clicked a bad link,"Good morning, I opened an attachment and now my laptop is acting strange. Not urgent, I can use another machine.",security,P2,security_ops
+Calendar invites missing,"Good morning, the shared support mailbox disappeared from Outlook. I can work around it for now. Thanks.",email,P3,applications
+Need access to shared drive,"Hey team, please add me to the Marketing SharePoint site. Whenever you get a chance.",access,P4,identity
+How to share a OneDrive file,how do I create a private channel in Teams?. No rush. Thanks in advance!,software,P4,service_desk
+Antivirus warning,"Hey team, Defender flagged a trojan on my machine. Not urgent, I can use another machine. Thanks.",security,P2,security_ops
+Emails stuck in outbox,"Hi, same problem as last week, still broken. I can work around it for now. Cheers",email,P3,applications
+Opened attachment,"I opened an attachment and now my laptop is acting strange. Not urgent, I can use another machine.",security,P2,security_ops
+Defender detected threat,"antivirus popped up saying ransomware behaviour blocked. Not urgent, I can use another machine. Cheers",security,P2,security_ops
+Laptop dead,"Hey team, the screen stays black after the logo. Not urgent, I can use another machine. Thanks.",hardware,P3,desktop_support
+Access to Jira project,"Good morning, please add me to the Marketing SharePoint site. No rush. Cheers",access,P4,identity
+Mailbox full,"Hello IT, can someone call me about this issue. This is blocking me completely. Thanks in advance!",email,P2,applications
+How to share a OneDrive file,how do I create a private channel in Teams?. No rush. Cheers,software,P4,service_desk
+Install Python,"Hi, could you install Python 3 on my laptop. Whenever you get a chance. Please help.",software,P4,desktop_support
+Not receiving email,"Hey team, Outlook hasn't synced new mail since yesterday. My whole team has the same problem.",email,P2,applications
+MFA not working,"Good morning, the authenticator app codes keep getting rejected. This is blocking me completely. Please help.",access,P2,identity
+malware alert,"Hello IT, antivirus popped up saying ransomware behaviour blocked. I can't do any work until this is fixed. Thanks in advance!",security,P2,security_ops
+Question about Teams channels,"Hey team, how do I create a private channel in Teams?.  Thanks in advance!",software,P4,service_desk
+not receiving email,emails sit in my outbox and never send. I'm totally stuck. Please help.,email,P2,applications
+Clicked a bad link,"Hello IT, I think I typed my credentials into a phishing page. I can work around it for now. Thanks in advance!",security,P2,security_ops
+Wi-Fi down,"Good morning, something is wrong with my computer. This is blocking me completely. Please help.",network,P2,network_ops
+mfa not working,"Hi, MFA push notifications never arrive. This is blocking me completely.",access,P2,identity
+Opened attachment,"Hello IT, I opened an attachment and now my laptop is acting strange. I can work around it for now. Thanks in advance!",security,P2,security_ops
+Suspicious email,"Hello IT, received an invoice email with a zip attachment from someone I don't know. Not urgent, I can use another machine. Please help.",security,P3,security_ops
+suspicious email,"Hi, received an invoice email with a zip attachment from someone I don't know. This is blocking me completely.",security,P3,security_ops
+Monitors flicker,"Hello IT, the dock stopped charging my laptop. I'm totally stuck. Please help.",hardware,P2,desktop_support
+I entered my password on a fake page,"Hi, I think I typed my credentials into a phishing page. This is happening company-wide.",security,P1,security_ops
+Can't reach internal site,can't reach the file server by name. This is happening company-wide. Cheers,network,P1,network_ops
+Workday error,"Hello IT, Salesforce opportunity pages just spin forever. Everyone in accounting is seeing this. Cheers",software,P2,applications
+Printer jammed,"Good morning, the printer keeps saying paper jam but there's no paper stuck. My whole team has the same problem. Thanks in advance!",hardware,P2,desktop_support
+Add me to distribution list,"Hey team, please add me to the all-engineering distribution list. No rush. Cheers",email,P4,applications
+Slow network,"Hey team, Wi-Fi keeps dropping in the meeting rooms. Not urgent, I can use another machine. Please help.",network,P3,network_ops
+How to share a OneDrive file,how do I share a OneDrive file with someone outside the company?. No rush.,software,P4,service_desk
+Workday error,"Good morning, Workday throws an error when I submit my timesheet. I'm totally stuck. Thanks in advance!",software,P2,applications
+Excel keeps crashing,"Hello IT, Acrobat freezes and then closes when opening PDFs. This is happening company-wide. Cheers",software,P1,desktop_support
+Mailbox full,"Good morning, meeting invites don't show up in my calendar. I'm totally stuck. Cheers",email,P2,applications
+Suspicious email,"Hello IT, got an email asking me to verify my payroll login through a strange link. It's annoying but I can manage. Thanks.",security,P3,security_ops
+Slow network,"Hello IT, the network is extremely slow, pages take a minute to load. It's annoying but I can manage. Please help.",network,P3,network_ops
+Login from another country,"Hey team, can someone call me about this issue. I'm totally stuck. Please help.",security,P2,security_ops
+Need Visio,"Hello IT, could you install Python 3 on my laptop. Whenever you get a chance. Thanks in advance!",software,P4,desktop_support
+Laptop dead,laptop shuts off randomly after a few minutes. This is blocking me completely. Thanks in advance!,hardware,P2,desktop_support
+Laptop won't turn on,"Hey team, my laptop won't power on even when plugged in. Not urgent, I can use another machine. Thanks.",hardware,P3,desktop_support
+Monitors flicker,"Hey team, the dock stopped charging my laptop. My whole team has the same problem. Cheers",hardware,P2,desktop_support
+ERP report failing,"Hi, Workday throws an error when I submit my timesheet. Not urgent, I can use another machine. Thanks.",software,P3,applications
+mfa not working,"Hello IT, I changed phones and can't approve MFA prompts anymore. I'm totally stuck. Cheers",access,P2,identity
+how do i change my password?,"Hey team, how often do we have to change passwords?. Whenever you get a chance. Thanks in advance!",access,P4,service_desk
+"New phone, lost MFA","Hey team, MFA push notifications never arrive. It's annoying but I can manage. Cheers",access,P3,identity
+New shared mailbox request,"Hey team, please add me to the all-engineering distribution list. No rush. Thanks in advance!",email,P4,applications
+Need Visio,"Good morning, I need Visio installed for a project. No rush. Please help.",software,P4,desktop_support
+MFA not working,"Hi, the authenticator app codes keep getting rejected. About ten of us are affected. Cheers",access,P2,identity
+Laptop dead,"Hello IT, laptop shuts off randomly after a few minutes. This is blocking me completely. Cheers",hardware,P2,desktop_support
+Mailbox full,the shared support mailbox disappeared from Outlook. About ten of us are affected. Thanks in advance!,email,P2,applications
+How do I change my password?,what's the process to reset my password myself?.  Cheers,access,P4,service_desk
+Defender detected threat,"Hi, my computer shows a warning that a threat was quarantined. I can work around it for now. Cheers",security,P2,security_ops
+I entered my password on a fake page,"Hi, it's not working again, please help. My whole team has the same problem.",security,P1,security_ops
+Wi-Fi down,"Good morning, no internet on my wired connection since this morning. This is blocking me completely. Please help.",network,P2,network_ops
+"New phone, lost MFA","Hey team, the authenticator app codes keep getting rejected. I'm totally stuck. Cheers",access,P2,identity
+Monitors flicker,"Hello IT, the dock stopped charging my laptop. This is blocking me completely. Cheers",hardware,P2,desktop_support
+New keyboard please,"Hello IT, requesting a headset for Teams calls. Whenever you get a chance. Thanks in advance!",hardware,P4,desktop_support
+Emails stuck in outbox,emails sit in my outbox and never send. I'm totally stuck. Cheers,email,P2,applications
+VPN keeps dropping,"Hello IT, the VPN disconnects every ten minutes. The entire office is affected.",network,P1,network_ops
+Intranet unreachable,"Good morning, internal sites time out but google works. My whole team has the same problem. Thanks in advance!",network,P2,network_ops
+Excel keeps crashing,Excel crashes whenever I open large files. I'm totally stuck. Cheers,software,P2,desktop_support
+Request: second monitor,"Hey team, could I get a second monitor for my desk. Whenever you get a chance.",hardware,P4,desktop_support
+Laptop won't turn on,"Hey team, laptop shuts off randomly after a few minutes. The entire office is affected. Please help.",hardware,P1,desktop_support
+ERP report failing,"Hi, the month-end ERP report fails with a timeout. I can't do any work until this is fixed. Cheers",software,P2,applications
+MFA not working,I changed phones and can't approve MFA prompts anymore. My whole team has the same problem. Please help.,access,P2,identity
+Dock issue,"Good morning, both monitors flicker every few seconds. My whole team has the same problem.",hardware,P2,desktop_support
+Software install request,"Hey team, I need Visio installed for a project.  Thanks.",software,P4,desktop_support
+DNS issue,"Hey team, the intranet site won't resolve. About ten of us are affected. Thanks in advance!",network,P2,network_ops
+Can't log in to Windows,"Hi, it says my account is locked when I sign in. Everyone in accounting is seeing this. Thanks.",access,P2,identity
+Antivirus warning,antivirus popped up saying ransomware behaviour blocked. I can't do any work until this is fixed. Thanks.,security,P2,security_ops
+Emails stuck in outbox,"Hello IT, Outlook hasn't synced new mail since yesterday. Not urgent, I can use another machine. Thanks in advance!",email,P3,applications
+Suspicious email,an email from 'IT Support' wants my password to keep my mailbox active. I'm totally stuck. Please help.,security,P3,security_ops
+GlobalProtect error,GlobalProtect is stuck on connecting. All sites are reporting it right now. Thanks in advance!,network,P1,network_ops
+Request: second monitor,"Good morning, could I get a second monitor for my desk. Whenever you get a chance. Thanks in advance!",hardware,P4,desktop_support
+New shared mailbox request,"Good morning, please add me to the all-engineering distribution list. No rush.",email,P4,applications
+Mailbox full,"Good morning, the shared support mailbox disappeared from Outlook. It's annoying but I can manage. Cheers",email,P3,applications
+Add me to distribution list,"Hey team, please add me to the all-engineering distribution list. Whenever you get a chance.",email,P4,applications
+Phishing?,"Hey team, got an email asking me to verify my payroll login through a strange link. About ten of us are affected. Thanks.",security,P3,security_ops
+Intranet unreachable,the intranet site won't resolve. I'm totally stuck. Please help.,network,P2,network_ops
+Can't log in to Windows,my account got locked after a few wrong password attempts. I can't do any work until this is fixed. Cheers,access,P2,identity
+Permission request: Finance folder,"Hi, could I get read access to the Finance shared folder. Whenever you get a chance. Please help.",access,P4,identity
+VPN keeps dropping,"Good morning, the VPN disconnects every ten minutes. I'm totally stuck. Thanks.",network,P2,network_ops
+How to share a OneDrive file,"Hi, how do I share a OneDrive file with someone outside the company?.  Thanks.",software,P4,service_desk
+Account locked,"Hey team, it says my account is locked when I sign in. I'm totally stuck. Thanks.",access,P2,identity
+How to share a OneDrive file,how do I create a private channel in Teams?. No rush.,software,P4,service_desk
+Slow network,Wi-Fi keeps dropping in the meeting rooms. I can work around it for now. Please help.,network,P3,network_ops
+mfa not working,"Hi, MFA push notifications never arrive. Not urgent, I can use another machine.",access,P3,identity
+Workday error,"Hello IT, Salesforce opportunity pages just spin forever. I'm totally stuck. Thanks.",software,P2,applications
+Black screen on boot,"Good morning, laptop shuts off randomly after a few minutes. Not urgent, I can use another machine. Cheers",hardware,P3,desktop_support
+Dock issue,"Hey team, something is wrong with my computer. This is blocking me completely. Cheers",hardware,P2,desktop_support
+No internet,"Hey team, Wi-Fi keeps dropping in the meeting rooms. I can work around it for now. Thanks.",network,P3,network_ops
+Salesforce page won't load,"Hey team, Workday throws an error when I submit my timesheet. My whole team has the same problem. Cheers",software,P2,applications
+VPN won't connect,"Hello IT, can someone call me about this issue. It's annoying but I can manage.",network,P3,network_ops
+Printer jammed,printer shows offline for everyone on the floor. I'm totally stuck. Thanks.,hardware,P2,desktop_support
+Weird login link,"Hello IT, received an invoice email with a zip attachment from someone I don't know. This is blocking me completely. Thanks in advance!",security,P3,security_ops
+Locked out of my account,"Hey team, my account got locked after a few wrong password attempts. The entire office is affected. Thanks.",access,P1,identity
+Printer offline,"Good morning, the printer keeps saying paper jam but there's no paper stuck. This is blocking me completely. Thanks in advance!",hardware,P2,desktop_support
+Question about Teams channels,"Hey team, how do I create a private channel in Teams?. No rush. Thanks in advance!",software,P4,service_desk
+question about teams channels,"Hi, how do I create a private channel in Teams?. No rush. Thanks.",software,P4,service_desk
+New shared mailbox request,"Hi, we need a shared mailbox for the new events team. No rush. Please help.",email,P4,applications
+New keyboard please,"Hello IT, requesting a headset for Teams calls.  Thanks in advance!",hardware,P4,desktop_support
+not receiving email,"Hello IT, I'm not receiving any external emails. About ten of us are affected. Thanks.",email,P2,applications
+new shared mailbox request,please add me to the all-engineering distribution list.  Cheers,email,P4,applications
+Access to Jira project,"Hi, could I get read access to the Finance shared folder. No rush.",access,P4,identity
+Locked out of my account,"Good morning, I can't get past the login screen, it says the account is disabled. I can't do any work until this is fixed. Please help.",access,P2,identity
+locked out of my account,"Good morning, something is wrong with my computer. I can't do any work until this is fixed. Thanks in advance!",access,P2,identity
+Login from another country,"Hi, I got an MFA prompt I didn't trigger. I can work around it for now. Thanks.",security,P2,security_ops
+Teams crashes on start,"Hey team, Teams closes itself right after launching. My whole team has the same problem. Please help.",software,P2,desktop_support
+New keyboard please,requesting a headset for Teams calls. No rush.,hardware,P4,desktop_support
+GlobalProtect error,the VPN disconnects every ten minutes. I can work around it for now. Please help.,network,P3,network_ops
+Antivirus warning,my computer shows a warning that a threat was quarantined. The entire office is affected. Thanks.,security,P1,security_ops
+Phishing?,"Hello IT, an email from 'IT Support' wants my password to keep my mailbox active. I can work around it for now. Cheers",security,P3,security_ops
+MFA not working,"Hey team, I changed phones and can't approve MFA prompts anymore. I can work around it for now.",access,P3,identity
+Suspicious email,"Good morning, received an invoice email with a zip attachment from someone I don't know. About ten of us are affected. Thanks in advance!",security,P3,security_ops
+Black screen on boot,laptop shuts off randomly after a few minutes. It's annoying but I can manage.,hardware,P3,desktop_support
+permission request: finance folder,"Hey team, I need permission to the new Jira project for onboarding.  Thanks in advance!",access,P4,identity
+Teams crashes on start,"Hey team, Teams closes itself right after launching. It's annoying but I can manage. Thanks.",software,P3,desktop_support
+Login from another country,I got an MFA prompt I didn't trigger. About ten of us are affected.,security,P1,security_ops
+globalprotect error,"GlobalProtect is stuck on connecting. Not urgent, I can use another machine.",network,P3,network_ops
+ERP report failing,"Hi, the month-end ERP report fails with a timeout. My whole team has the same problem. Please help.",software,P2,applications
+New shared mailbox request,"Good morning, please add me to the all-engineering distribution list. No rush.",email,P4,applications
+Software install request,could you install Python 3 on my laptop. Whenever you get a chance. Cheers,software,P4,desktop_support
+Headset request,"Hi, requesting a headset for Teams calls. No rush. Thanks.",hardware,P4,desktop_support
+Teams crashes on start,"Hello IT, Excel crashes whenever I open large files. Not urgent, I can use another machine. Please help.",software,P3,desktop_support
+Question about Teams channels,"Good morning, how do I share a OneDrive file with someone outside the company?.  Cheers",software,P4,service_desk
+Password reset question,"Hello IT, what's the process to reset my password myself?. No rush. Cheers",access,P4,service_desk
+Software install request,"Good morning, I need Visio installed for a project. Whenever you get a chance. Thanks.",software,P4,desktop_support
+Opened attachment,"Hello IT, I clicked a link in an email and entered my password before realizing it was fake. I can't do any work until this is fixed. Thanks in advance!",security,P2,security_ops
+antivirus warning,"Hey team, my computer shows a warning that a threat was quarantined. About ten of us are affected. Thanks in advance!",security,P1,security_ops
+Suspicious email,"Good morning, received an invoice email with a zip attachment from someone I don't know. The entire office is affected.",security,P1,security_ops
+Intranet unreachable,the intranet site won't resolve. This is blocking me completely. Please help.,network,P2,network_ops
+black screen on boot,"Hey team, the screen stays black after the logo. It's annoying but I can manage. Please help.",hardware,P3,desktop_support
+i entered my password on a fake page,"Hey team, I think I typed my credentials into a phishing page. I'm totally stuck. Cheers",security,P2,security_ops
+How to share a OneDrive file,"Hello IT, how do I share a OneDrive file with someone outside the company?. No rush. Thanks.",software,P4,service_desk
+"new phone, lost mfa","Hello IT, MFA push notifications never arrive. This is blocking me completely. Please help.",access,P2,identity
+How do I change my password?,"Good morning, how often do we have to change passwords?.  Cheers",access,P4,service_desk
+New keyboard please,"Good morning, my keyboard's letters are worn off, can I get a new one. Whenever you get a chance. Cheers",hardware,P4,desktop_support
+Account locked,"Hi, my account got locked after a few wrong password attempts. I can work around it for now. Thanks in advance!",access,P3,identity
+can't reach internal site,"Hey team, can't reach the file server by name. This is blocking me completely. Thanks in advance!",network,P2,network_ops
+"New phone, lost MFA","Hi, the authenticator app codes keep getting rejected. Not urgent, I can use another machine. Thanks.",access,P3,identity
+Add me to distribution list,"Hey team, we need a shared mailbox for the new events team.  Thanks.",email,P4,applications
+Malware alert,"Good morning, Defender flagged a trojan on my machine. This is blocking me completely. Thanks.",security,P2,security_ops
+no internet,Wi-Fi keeps dropping in the meeting rooms. My whole team has the same problem. Cheers,network,P2,network_ops
+Add me to distribution list,we need a shared mailbox for the new events team. Whenever you get a chance. Thanks in advance!,email,P4,applications
+Not receiving email,"Good morning, I'm not receiving any external emails. This is blocking me completely.",email,P2,applications
+intranet unreachable,"Good morning, the intranet site won't resolve. Everyone in accounting is seeing this. Cheers",network,P2,network_ops
+Laptop dead,"Hi, my laptop won't power on even when plugged in. I can work around it for now. Cheers",hardware,P3,desktop_support
+Clicked a bad link,"Good morning, I think I typed my credentials into a phishing page. I can't do any work until this is fixed. Thanks.",security,P2,security_ops
+Emails stuck in outbox,"Hello IT, Outlook hasn't synced new mail since yesterday. Not urgent, I can use another machine.",email,P3,applications
+Printer offline,"Hey team, print jobs sit in the queue and never print. This is blocking me completely. Please help.",hardware,P2,desktop_support
+dns issue,"Hi, the intranet site won't resolve. I can work around it for now. Thanks in advance!",network,P3,network_ops
+Headset request,"Good morning, my keyboard's letters are worn off, can I get a new one. No rush. Please help.",hardware,P4,desktop_support
+Password reset question,"Hello IT, what's the process to reset my password myself?.  Cheers",access,P4,service_desk
+"New phone, lost MFA","Hi, I changed phones and can't approve MFA prompts anymore. This is blocking me completely. Thanks in advance!",access,P2,identity
+Authenticator codes rejected,I changed phones and can't approve MFA prompts anymore. I can't do any work until this is fixed. Thanks.,access,P2,identity
+weird login link,"Hi, an email from 'IT Support' wants my password to keep my mailbox active. Everyone in accounting is seeing this. Cheers",security,P3,security_ops
+Printer jammed,"Good morning, the printer keeps saying paper jam but there's no paper stuck. I'm totally stuck. Thanks.",hardware,P2,desktop_support
+ERP report failing,Salesforce opportunity pages just spin forever. It's annoying but I can manage. Thanks.,software,P3,applications
+wi-fi down,"Hi, no internet on my wired connection since this morning. My whole team has the same problem. Thanks.",network,P2,network_ops
+Install Python,"Good morning, please install Power BI Desktop. Whenever you get a chance. Thanks in advance!",software,P4,desktop_support
+VPN keeps dropping,"Hello IT, VPN says gateway not responding. I can't do any work until this is fixed. Thanks in advance!",network,P2,network_ops
+Emails stuck in outbox,"Hey team, I'm not receiving any external emails. It's annoying but I can manage. Thanks in advance!",email,P3,applications
+New shared mailbox request,"Hey team, please add me to the all-engineering distribution list. Whenever you get a chance. Thanks in advance!",email,P4,applications
+erp report failing,"Hello IT, Salesforce opportunity pages just spin forever. I'm totally stuck.",software,P2,applications
+Antivirus warning,Defender flagged a trojan on my machine. I can work around it for now. Please help.,security,P2,security_ops
+black screen on boot,"Hello IT, the screen stays black after the logo. Not urgent, I can use another machine. Thanks in advance!",hardware,P3,desktop_support
+Unrecognized MFA prompt,"Hi, I got an MFA prompt I didn't trigger. It's annoying but I can manage. Please help.",security,P2,security_ops
+password reset question,"Good morning, same problem as last week, still broken. Whenever you get a chance. Please help.",access,P4,service_desk
+Install Python,I need Visio installed for a project.  Thanks.,software,P4,desktop_support
+Password reset question,"Hi, what's the process to reset my password myself?. Whenever you get a chance. Please help.",access,P4,service_desk
+Black screen on boot,"Good morning, laptop shuts off randomly after a few minutes. It's annoying but I can manage. Thanks.",hardware,P3,desktop_support
+can't print,"Hey team, print jobs sit in the queue and never print. Not urgent, I can use another machine. Thanks.",hardware,P3,desktop_support
+Password reset question,"Hello IT, how often do we have to change passwords?.  Please help.",access,P4,service_desk
+Laptop won't turn on,"Good morning, the screen stays black after the logo. I can't do any work until this is fixed. Cheers",hardware,P2,desktop_support
+Can't log in to Windows,"Hey team, it says my account is locked when I sign in. It's annoying but I can manage. Thanks in advance!",access,P3,identity
+New keyboard please,"Good morning, my keyboard's letters are worn off, can I get a new one. No rush.",hardware,P4,desktop_support
+Account locked,"Good morning, it says my account is locked when I sign in. It's annoying but I can manage. Thanks.",access,P3,identity
+Need access to shared drive,"same problem as last week, still broken. No rush.",access,P4,identity
+globalprotect error,"Hey team, the VPN disconnects every ten minutes. I'm totally stuck. Please help.",network,P2,network_ops
+Add me to distribution list,"Good morning, we need a shared mailbox for the new events team. No rush. Thanks.",email,P4,applications
+Black screen on boot,the screen stays black after the logo. I'm totally stuck. Thanks in advance!,hardware,P2,desktop_support
+Request: second monitor,could I get a second monitor for my desk. No rush. Please help.,hardware,P4,desktop_support
+Authenticator codes rejected,MFA push notifications never arrive. Everyone in accounting is seeing this. Thanks.,access,P2,identity
+Monitors flicker,"Hello IT, both monitors flicker every few seconds. I'm totally stuck. Thanks.",hardware,P2,desktop_support
+Adobe won't open,"Hey team, Excel crashes whenever I open large files. My whole team has the same problem. Thanks in advance!",software,P2,desktop_support
+Adobe won't open,"Hello IT, Acrobat freezes and then closes when opening PDFs. This is blocking me completely.",software,P2,desktop_support
+Suspicious email,an email from 'IT Support' wants my password to keep my mailbox active. I can work around it for now. Thanks.,security,P3,security_ops
+Locked out of my account,"Hi, my account got locked after a few wrong password attempts. Not urgent, I can use another machine. Thanks.",access,P3,identity
+"New phone, lost MFA","Hi, MFA push notifications never arrive. About ten of us are affected. Please help.",access,P2,identity
+Software install request,"Good morning, could you install Python 3 on my laptop.",software,P4,desktop_support
+calendar invites missing,"Hello IT, the shared support mailbox disappeared from Outlook. Not urgent, I can use another machine. Thanks in advance!",email,P3,applications
+Can't reach internal site,"Good morning, internal sites time out but google works. It's annoying but I can manage. Thanks.",network,P3,network_ops
+phishing?,"Hi, got an email asking me to verify my payroll login through a strange link. Everyone in accounting is seeing this. Thanks.",security,P3,security_ops
+wi-fi down,Wi-Fi keeps dropping in the meeting rooms. I'm totally stuck. Thanks in advance!,network,P2,network_ops
+Login from another country,"Hi, I'm getting login approval requests at 3am that aren't me. My whole team has the same problem. Please help.",security,P1,security_ops
+MFA not working,"Good morning, MFA push notifications never arrive. I can work around it for now. Please help.",access,P3,identity
+question about teams channels,"Hi, how do I share a OneDrive file with someone outside the company?.  Please help.",software,P4,service_desk
+Suspicious email,"Hello IT, an email from 'IT Support' wants my password to keep my mailbox active. I can't do any work until this is fixed. Thanks in advance!",security,P3,security_ops
+globalprotect error,GlobalProtect is stuck on connecting. This is blocking me completely. Thanks.,network,P2,network_ops
+Suspicious email,"Hey team, got an email asking me to verify my payroll login through a strange link. Not urgent, I can use another machine.",security,P3,security_ops
+printer offline,"Hello IT, printer shows offline for everyone on the floor. I can't do any work until this is fixed. Cheers",hardware,P2,desktop_support
+Install Python,"Hello IT, could you install Python 3 on my laptop.  Please help.",software,P4,desktop_support
+Login from another country,"Hey team, can someone call me about this issue. My whole team has the same problem. Cheers",security,P1,security_ops
+request: second monitor,"Hi, my keyboard's letters are worn off, can I get a new one. No rush.",hardware,P4,desktop_support
+Request: second monitor,could I get a second monitor for my desk. Whenever you get a chance. Cheers,hardware,P4,desktop_support
+need access to shared drive,"Hey team, could I get read access to the Finance shared folder. No rush. Thanks.",access,P4,identity
+install python,"Hey team, can someone call me about this issue. Whenever you get a chance. Please help.",software,P4,desktop_support
+login from another country,"Hey team, I got an MFA prompt I didn't trigger. I can't do any work until this is fixed. Thanks.",security,P2,security_ops
+opened attachment,"Good morning, I clicked a link in an email and entered my password before realizing it was fake. This is blocking me completely. Please help.",security,P2,security_ops
+Teams crashes on start,"Good morning, Excel crashes whenever I open large files. I'm totally stuck. Thanks.",software,P2,desktop_support
+Add me to distribution list,"Good morning, we need a shared mailbox for the new events team.  Please help.",email,P4,applications
+weird login link,"same problem as last week, still broken. I can't do any work until this is fixed. Thanks in advance!",security,P3,security_ops
+Not receiving email,emails sit in my outbox and never send. My whole team has the same problem. Thanks.,email,P2,applications
+Adobe won't open,"Hey team, Acrobat freezes and then closes when opening PDFs. I can work around it for now. Thanks in advance!",software,P3,desktop_support
+Docking station not detecting monitors,"Good morning, my external monitors aren't detected through the dock. I'm totally stuck.",hardware,P2,desktop_support
+how to share a onedrive file,"Hi, how do I share a OneDrive file with someone outside the company?. Whenever you get a chance. Please help.",software,P4,service_desk
+MFA not working,"Hello IT, MFA push notifications never arrive. It's annoying but I can manage. Cheers",access,P3,identity
+Laptop dead,"Good morning, same problem as last week, still broken. Not urgent, I can use another machine. Thanks.",hardware,P3,desktop_support
+Shared mailbox gone,meeting invites don't show up in my calendar. I'm totally stuck. Thanks in advance!,email,P2,applications
+Laptop won't turn on,"Hello IT, laptop shuts off randomly after a few minutes. All sites are reporting it right now. Thanks.",hardware,P1,desktop_support
+New shared mailbox request,"Hi, please add me to the all-engineering distribution list.  Please help.",email,P4,applications
+workday error,"Hey team, Workday throws an error when I submit my timesheet. Everyone in accounting is seeing this. Cheers",software,P2,applications
+I entered my password on a fake page,"Hey team, I think I typed my credentials into a phishing page. It's annoying but I can manage. Thanks.",security,P2,security_ops
+Need access to shared drive,please add me to the Marketing SharePoint site. Whenever you get a chance. Thanks in advance!,access,P4,identity
+excel keeps crashing,Excel crashes whenever I open large files. This is blocking me completely.,software,P2,desktop_support
+Intranet unreachable,"Hey team, internal sites time out but google works. This is happening company-wide. Thanks in advance!",network,P1,network_ops
+how do i change my password?,how often do we have to change passwords?. No rush. Thanks in advance!,access,P4,service_desk
+Excel keeps crashing,Excel crashes whenever I open large files. This is blocking me completely. Cheers,software,P2,desktop_support
+Permission request: Finance folder,I need permission to the new Jira project for onboarding.  Please help.,access,P4,identity
+Dock issue,"Hi, both monitors flicker every few seconds. I can work around it for now. Please help.",hardware,P3,desktop_support
+New shared mailbox request,we need a shared mailbox for the new events team. Whenever you get a chance. Please help.,email,P4,applications
+Outlook not syncing,"Good morning, Outlook hasn't synced new mail since yesterday. This is blocking me completely. Please help.",email,P2,applications
+Locked out of my account,my account got locked after a few wrong password attempts. I can't do any work until this is fixed. Thanks in advance!,access,P2,identity
+Emails stuck in outbox,"Hi, I'm not receiving any external emails. It's annoying but I can manage. Thanks in advance!",email,P3,applications
+How to share a OneDrive file,"Hey team, how do I create a private channel in Teams?. No rush. Thanks in advance!",software,P4,service_desk
+Adobe won't open,Excel crashes whenever I open large files. It's annoying but I can manage. Thanks in advance!,software,P3,desktop_support
+Slow network,"Hey team, Wi-Fi keeps dropping in the meeting rooms. This is blocking me completely. Cheers",network,P2,network_ops
+Not receiving email,Outlook hasn't synced new mail since yesterday. I can't do any work until this is fixed. Cheers,email,P2,applications
+Mailbox full,"Hey team, I'm getting mailbox full warnings and can't send. The entire office is affected. Thanks.",email,P1,applications
+Docking station not detecting monitors,"Hi, can someone call me about this issue. Not urgent, I can use another machine. Thanks.",hardware,P3,desktop_support
+Teams crashes on start,"Good morning, Acrobat freezes and then closes when opening PDFs. The entire office is affected. Please help.",software,P1,desktop_support
+Adobe won't open,"Good morning, Teams closes itself right after launching. The entire office is affected. Cheers",software,P1,desktop_support
+Wi-Fi down,no internet on my wired connection since this morning. It's annoying but I can manage.,network,P3,network_ops
+How do I change my password?,"Hey team, what's the process to reset my password myself?. Whenever you get a chance. Cheers",access,P4,service_desk
+MFA not working,"Hey team, I changed phones and can't approve MFA prompts anymore. I'm totally stuck.",access,P2,identity
+need visio,"Hello IT, could you install Python 3 on my laptop. No rush. Thanks in advance!",software,P4,desktop_support
+ERP report failing,"Hi, the month-end ERP report fails with a timeout. Everyone in accounting is seeing this. Thanks.",software,P2,applications
+DNS issue,"Hi, internal sites time out but google works. Everyone in accounting is seeing this. Please help.",network,P2,network_ops
+slow network,"Good morning, no internet on my wired connection since this morning. About ten of us are affected. Thanks.",network,P2,network_ops
+Shared mailbox gone,meeting invites don't show up in my calendar. Everyone in accounting is seeing this. Thanks.,email,P2,applications
+Printer jammed,"Hi, the printer keeps saying paper jam but there's no paper stuck. I can work around it for now. Thanks in advance!",hardware,P3,desktop_support
+Intranet unreachable,"Hi, internal sites time out but google works. I can't do any work until this is fixed. Thanks in advance!",network,P2,network_ops
+Can't reach internal site,"Hello IT, internal sites time out but google works. This is blocking me completely.",network,P2,network_ops
+VPN won't connect,"Hi, VPN says gateway not responding. My whole team has the same problem. Thanks.",network,P2,network_ops
+Slow network,"Hi, same problem as last week, still broken. Everyone in accounting is seeing this. Cheers",network,P2,network_ops
+New keyboard please,"Hello IT, requesting a headset for Teams calls. Whenever you get a chance. Please help.",hardware,P4,desktop_support
+Question about Teams channels,"Good morning, how do I create a private channel in Teams?. No rush. Cheers",software,P4,service_desk
+Password reset question,"Good morning, what's the process to reset my password myself?.  Thanks in advance!",access,P4,service_desk
+How do I change my password?,"Hello IT, how often do we have to change passwords?. Whenever you get a chance. Thanks in advance!",access,P4,service_desk
+Antivirus warning,"Good morning, Defender flagged a trojan on my machine. I can work around it for now. Please help.",security,P2,security_ops
+Suspicious sign-in,"Hello IT, I'm getting login approval requests at 3am that aren't me. Not urgent, I can use another machine. Please help.",security,P2,security_ops
+"New phone, lost MFA","Hi, MFA push notifications never arrive. The entire office is affected. Cheers",access,P1,identity
+Not receiving email,"Good morning, emails sit in my outbox and never send. I can't do any work until this is fixed. Thanks.",email,P2,applications
+Outlook not syncing,"Hi, I'm not receiving any external emails. It's annoying but I can manage. Thanks in advance!",email,P3,applications
+New keyboard please,"Hey team, could I get a second monitor for my desk.  Thanks in advance!",hardware,P4,desktop_support
+Phishing?,"Hey team, it's not working again, please help. About ten of us are affected. Thanks.",security,P3,security_ops
+Login from another country,"Hi, I'm getting login approval requests at 3am that aren't me. I can work around it for now. Thanks.",security,P2,security_ops
+Software install request,"Hi, please install Power BI Desktop. Whenever you get a chance.",software,P4,desktop_support
+Malware alert,"Hi, antivirus popped up saying ransomware behaviour blocked. I can't do any work until this is fixed. Thanks.",security,P2,security_ops
+Monitors flicker,"Hey team, my external monitors aren't detected through the dock. Not urgent, I can use another machine. Please help.",hardware,P3,desktop_support
+VPN won't connect,VPN says gateway not responding. I'm totally stuck. Thanks in advance!,network,P2,network_ops
+Calendar invites missing,"Hi, meeting invites don't show up in my calendar. I'm totally stuck. Thanks in advance!",email,P2,applications
+How do I change my password?,"Hello IT, it's not working again, please help. No rush. Thanks in advance!",access,P4,service_desk
+Mailbox full,"Hello IT, I'm getting mailbox full warnings and can't send. I'm totally stuck. Please help.",email,P2,applications
+Printer jammed,"Hi, printer shows offline for everyone on the floor. I can work around it for now. Thanks.",hardware,P3,desktop_support
+Weird login link,got an email asking me to verify my payroll login through a strange link. It's annoying but I can manage. Please help.,security,P3,security_ops
+Adobe won't open,Acrobat freezes and then closes when opening PDFs. I can work around it for now.,software,P3,desktop_support
+No internet,"Hi, no internet on my wired connection since this morning. Not urgent, I can use another machine. Thanks.",network,P3,network_ops
+Malware alert,"Hello IT, antivirus popped up saying ransomware behaviour blocked. I can't do any work until this is fixed. Cheers",security,P2,security_ops
+Laptop dead,my laptop won't power on even when plugged in. I'm totally stuck.,hardware,P2,desktop_support
+Clicked a bad link,"Hey team, I opened an attachment and now my laptop is acting strange. My whole team has the same problem. Thanks in advance!",security,P1,security_ops
+new shared mailbox request,"Hello IT, please add me to the all-engineering distribution list.  Thanks.",email,P4,applications
+suspicious sign-in,I got an MFA prompt I didn't trigger. Everyone in accounting is seeing this. Cheers,security,P1,security_ops
+How do I change my password?,"Hello IT, how often do we have to change passwords?. Whenever you get a chance. Thanks in advance!",access,P4,service_desk
+Password reset question,"Hello IT, how often do we have to change passwords?. Whenever you get a chance. Please help.",access,P4,service_desk
+Password reset question,"Hi, how often do we have to change passwords?. No rush. Thanks in advance!",access,P4,service_desk
+intranet unreachable,"Hello IT, internal sites time out but google works. My whole team has the same problem. Thanks.",network,P2,network_ops
+vpn keeps dropping,"Hey team, the VPN disconnects every ten minutes. Everyone in accounting is seeing this. Thanks.",network,P2,network_ops
+MFA not working,"Good morning, the authenticator app codes keep getting rejected. I'm totally stuck. Please help.",access,P2,identity
+VPN keeps dropping,"Hi, GlobalProtect is stuck on connecting. It's annoying but I can manage. Please help.",network,P3,network_ops
+How do I change my password?,something is wrong with my computer. No rush. Cheers,access,P4,service_desk
+Weird login link,"Good morning, received an invoice email with a zip attachment from someone I don't know. It's annoying but I can manage. Cheers",security,P3,security_ops
+Clicked a bad link,"Hey team, I opened an attachment and now my laptop is acting strange. I can't do any work until this is fixed. Thanks.",security,P2,security_ops
+Add me to distribution list,"Good morning, please add me to the all-engineering distribution list.  Please help.",email,P4,applications
+Docking station not detecting monitors,both monitors flicker every few seconds. This is blocking me completely. Cheers,hardware,P2,desktop_support
+antivirus warning,"Good morning, antivirus popped up saying ransomware behaviour blocked. My whole team has the same problem. Please help.",security,P1,security_ops
+Emails stuck in outbox,"emails sit in my outbox and never send. Not urgent, I can use another machine.",email,P3,applications
+"New phone, lost MFA","Good morning, MFA push notifications never arrive. I can work around it for now. Thanks in advance!",access,P3,identity
+Add me to distribution list,we need a shared mailbox for the new events team. Whenever you get a chance. Thanks.,email,P4,applications
+need visio,"Hello IT, please install Power BI Desktop.  Please help.",software,P4,desktop_support
+Suspicious sign-in,"Hello IT, I got an MFA prompt I didn't trigger. I'm totally stuck. Cheers",security,P2,security_ops
+Password reset question,"Hey team, how often do we have to change passwords?. Whenever you get a chance.",access,P4,service_desk
+printer jammed,"Hi, the printer keeps saying paper jam but there's no paper stuck. This is happening company-wide. Thanks in advance!",hardware,P1,desktop_support
+Wi-Fi down,"Hey team, the network is extremely slow, pages take a minute to load. Everyone in accounting is seeing this. Please help.",network,P2,network_ops
+Calendar invites missing,"Good morning, can someone call me about this issue. It's annoying but I can manage. Please help.",email,P3,applications
+Dock issue,"Good morning, the dock stopped charging my laptop. I can work around it for now. Cheers",hardware,P3,desktop_support
+Shared mailbox gone,"Hello IT, the shared support mailbox disappeared from Outlook. All sites are reporting it right now. Please help.",email,P1,applications
+ERP report failing,"Good morning, Workday throws an error when I submit my timesheet. It's annoying but I can manage. Thanks in advance!",software,P3,applications
+New shared mailbox request,"Hello IT, please add me to the all-engineering distribution list. No rush. Thanks in advance!",email,P4,applications
+Black screen on boot,"Hello IT, laptop shuts off randomly after a few minutes. The entire office is affected.",hardware,P1,desktop_support
+New shared mailbox request,"Good morning, we need a shared mailbox for the new events team.  Thanks in advance!",email,P4,applications
+Wi-Fi down,"the network is extremely slow, pages take a minute to load. Not urgent, I can use another machine. Thanks.",network,P3,network_ops
+Monitors flicker,"Hello IT, the dock stopped charging my laptop. I can work around it for now. Thanks.",hardware,P3,desktop_support
+Authenticator codes rejected,"Hi, I changed phones and can't approve MFA prompts anymore. It's annoying but I can manage. Cheers",access,P3,identity
+Mailbox full,"Hey team, the shared support mailbox disappeared from Outlook. I can't do any work until this is fixed. Please help.",email,P2,applications
+Login from another country,"Good morning, I'm getting login approval requests at 3am that aren't me. It's annoying but I can manage. Please help.",security,P2,security_ops
+Defender detected threat,"Good morning, my computer shows a warning that a threat was quarantined. I'm totally stuck. Thanks.",security,P2,security_ops
+Printer offline,"Good morning, same problem as last week, still broken. It's annoying but I can manage.",hardware,P3,desktop_support
+No internet,"Hello IT, the network is extremely slow, pages take a minute to load. I can work around it for now.",network,P3,network_ops
+Laptop won't turn on,"Hey team, something is wrong with my computer. All sites are reporting it right now. Cheers",hardware,P1,desktop_support
+access to jira project,"Hi, please add me to the Marketing SharePoint site.  Cheers",access,P4,identity
+Calendar invites missing,"Hi, the shared support mailbox disappeared from Outlook. This is blocking me completely. Thanks.",email,P2,applications
+Software install request,"Good morning, I need Visio installed for a project. No rush. Cheers",software,P4,desktop_support
+Add me to distribution list,"Hi, please add me to the all-engineering distribution list.  Cheers",email,P4,applications
+Request: second monitor,requesting a headset for Teams calls. Whenever you get a chance. Please help.,hardware,P4,desktop_support
+Workday error,"Good morning, Salesforce opportunity pages just spin forever. About ten of us are affected. Please help.",software,P2,applications
+Salesforce page won't load,"Hi, Workday throws an error when I submit my timesheet. I can't do any work until this is fixed. Cheers",software,P2,applications
+Malware alert,"Hey team, Defender flagged a trojan on my machine. I can't do any work until this is fixed.",security,P2,security_ops
+slow network,something is wrong with my computer. My whole team has the same problem.,network,P2,network_ops
+Monitors flicker,"Hey team, the dock stopped charging my laptop. I can work around it for now. Please help.",hardware,P3,desktop_support
+vpn keeps dropping,the VPN disconnects every ten minutes. It's annoying but I can manage. Cheers,network,P3,network_ops
+Suspicious email,received an invoice email with a zip attachment from someone I don't know. About ten of us are affected. Thanks in advance!,security,P3,security_ops
+Salesforce page won't load,"Workday throws an error when I submit my timesheet. Not urgent, I can use another machine. Please help.",software,P3,applications
+Request: second monitor,"Good morning, requesting a headset for Teams calls. Whenever you get a chance. Thanks in advance!",hardware,P4,desktop_support
+Laptop dead,laptop shuts off randomly after a few minutes. Everyone in accounting is seeing this. Cheers,hardware,P2,desktop_support
+Laptop won't turn on,"Good morning, my laptop won't power on even when plugged in. It's annoying but I can manage.",hardware,P3,desktop_support
+How to share a OneDrive file,"Hi, how do I create a private channel in Teams?.  Thanks.",software,P4,service_desk
+I entered my password on a fake page,I clicked a link in an email and entered my password before realizing it was fake. It's annoying but I can manage. Cheers,security,P2,security_ops
+Add me to distribution list,"Hi, it's not working again, please help.  Cheers",email,P4,applications
+Software install request,could you install Python 3 on my laptop.  Thanks in advance!,software,P4,desktop_support
+Printer offline,"Good morning, printer shows offline for everyone on the floor. I'm totally stuck. Thanks.",hardware,P2,desktop_support
+Question about Teams channels,"Hi, same problem as last week, still broken. No rush. Please help.",software,P4,service_desk
+How to share a OneDrive file,"Hello IT, how do I create a private channel in Teams?. Whenever you get a chance. Thanks in advance!",software,P4,service_desk
+Password reset question,"Hi, how often do we have to change passwords?. Whenever you get a chance. Cheers",access,P4,service_desk
+Malware alert,my computer shows a warning that a threat was quarantined. I can work around it for now. Cheers,security,P2,security_ops
+Suspicious email,"Good morning, got an email asking me to verify my payroll login through a strange link. I'm totally stuck. Please help.",security,P3,security_ops
+Laptop dead,"Hello IT, the screen stays black after the logo. It's annoying but I can manage. Thanks.",hardware,P3,desktop_support
+Calendar invites missing,"Good morning, the shared support mailbox disappeared from Outlook. I can't do any work until this is fixed. Thanks.",email,P2,applications
+Laptop dead,"Hi, my laptop won't power on even when plugged in. It's annoying but I can manage. Please help.",hardware,P3,desktop_support
+MFA not working,"I changed phones and can't approve MFA prompts anymore. Not urgent, I can use another machine. Thanks.",access,P3,identity
+question about teams channels,how do I create a private channel in Teams?. Whenever you get a chance. Thanks in advance!,software,P4,service_desk
+Mailbox full,"Good morning, the shared support mailbox disappeared from Outlook. About ten of us are affected. Thanks.",email,P2,applications
+VPN keeps dropping,"Hey team, GlobalProtect is stuck on connecting. I can't do any work until this is fixed. Thanks.",network,P2,network_ops
+Question about Teams channels,how do I create a private channel in Teams?. Whenever you get a chance. Cheers,software,P4,service_desk
+Can't reach internal site,"Hi, the intranet site won't resolve. It's annoying but I can manage. Thanks.",network,P3,network_ops
+Opened attachment,I clicked a link in an email and entered my password before realizing it was fake. This is blocking me completely. Please help.,security,P2,security_ops
+Outlook not syncing,"Hi, it's not working again, please help. Not urgent, I can use another machine. Cheers",email,P3,applications
+Black screen on boot,"Hi, laptop shuts off randomly after a few minutes. It's annoying but I can manage. Thanks in advance!",hardware,P3,desktop_support
+Shared mailbox gone,something is wrong with my computer. All sites are reporting it right now. Thanks.,email,P1,applications
+Emails stuck in outbox,"Good morning, Outlook hasn't synced new mail since yesterday. Not urgent, I can use another machine. Thanks.",email,P3,applications
+shared mailbox gone,"Good morning, meeting invites don't show up in my calendar. About ten of us are affected. Cheers",email,P2,applications
+VPN keeps dropping,"Good morning, VPN says gateway not responding. I can work around it for now. Please help.",network,P3,network_ops
+Clicked a bad link,"Good morning, I clicked a link in an email and entered my password before realizing it was fake. I'm totally stuck. Cheers",security,P2,security_ops
+Permission request: Finance folder,"Good morning, I need permission to the new Jira project for onboarding. No rush.",access,P4,identity
+Unrecognized MFA prompt,"Good morning, my account shows a sign-in from another country. This is blocking me completely. Please help.",security,P2,security_ops
+Emails stuck in outbox,"Good morning, emails sit in my outbox and never send. I'm totally stuck.",email,P2,applications
+Teams crashes on start,"Good morning, Excel crashes whenever I open large files. The entire office is affected. Please help.",software,P1,desktop_support
+Can't log in to Windows,"Good morning, I can't get past the login screen, it says the account is disabled. Everyone in accounting is seeing this.",access,P2,identity
+Can't print,"Good morning, printer shows offline for everyone on the floor. I can't do any work until this is fixed. Thanks in advance!",hardware,P2,desktop_support
+New shared mailbox request,"Hey team, we need a shared mailbox for the new events team.  Thanks.",email,P4,applications
+New shared mailbox request,"Hey team, please add me to the all-engineering distribution list. Whenever you get a chance. Thanks in advance!",email,P4,applications
+Phishing?,received an invoice email with a zip attachment from someone I don't know. I can't do any work until this is fixed. Thanks.,security,P3,security_ops
+Docking station not detecting monitors,"Good morning, my external monitors aren't detected through the dock. This is blocking me completely.",hardware,P2,desktop_support
+malware alert,"Hey team, Defender flagged a trojan on my machine. About ten of us are affected.",security,P1,security_ops
+New keyboard please,"Hey team, can someone call me about this issue.  Cheers",hardware,P4,desktop_support
+Salesforce page won't load,"Hey team, Salesforce opportunity pages just spin forever. I can work around it for now.",software,P3,applications
+Unrecognized MFA prompt,"Hi, my account shows a sign-in from another country. It's annoying but I can manage. Cheers",security,P2,security_ops
+Authenticator codes rejected,"Hello IT, the authenticator app codes keep getting rejected. I can't do any work until this is fixed. Please help.",access,P2,identity
+VPN keeps dropping,GlobalProtect is stuck on connecting. I can work around it for now.,network,P3,network_ops
+New shared mailbox request,"Hi, we need a shared mailbox for the new events team. Whenever you get a chance. Please help.",email,P4,applications
+Suspicious email,an email from 'IT Support' wants my password to keep my mailbox active. It's annoying but I can manage. Cheers,security,P3,security_ops
+How do I change my password?,"Hey team, what's the process to reset my password myself?.  Cheers",access,P4,service_desk
+New keyboard please,"Good morning, my keyboard's letters are worn off, can I get a new one.",hardware,P4,desktop_support
+Excel keeps crashing,"Hi, Teams closes itself right after launching. I can't do any work until this is fixed. Thanks in advance!",software,P2,desktop_support
+how to share a onedrive file,"Hey team, how do I create a private channel in Teams?. No rush. Thanks in advance!",software,P4,service_desk
+Monitors flicker,"Hi, both monitors flicker every few seconds. I'm totally stuck. Please help.",hardware,P2,desktop_support
+Headset request,"Hi, could I get a second monitor for my desk. Whenever you get a chance. Thanks.",hardware,P4,desktop_support
+how to share a onedrive file,"Hey team, how do I share a OneDrive file with someone outside the company?. No rush. Cheers",software,P4,service_desk
+Add me to distribution list,"Hey team, we need a shared mailbox for the new events team. Whenever you get a chance. Cheers",email,P4,applications
+Outlook not syncing,"Hi, I'm not receiving any external emails. I can work around it for now.",email,P3,applications
+No internet,"Hi, the network is extremely slow, pages take a minute to load. Not urgent, I can use another machine. Please help.",network,P3,network_ops
+shared mailbox gone,"Hey team, the shared support mailbox disappeared from Outlook. I can't do any work until this is fixed. Cheers",email,P2,applications
+Question about Teams channels,"Hello IT, how do I share a OneDrive file with someone outside the company?.  Please help.",software,P4,service_desk
+Software install request,"Hey team, could you install Python 3 on my laptop. Whenever you get a chance. Thanks in advance!",software,P4,desktop_support
+VPN keeps dropping,"Hi, the VPN disconnects every ten minutes. I can work around it for now.",network,P3,network_ops
+Headset request,"Hi, my keyboard's letters are worn off, can I get a new one. Whenever you get a chance. Please help.",hardware,P4,desktop_support
+Monitors flicker,"Hello IT, both monitors flicker every few seconds. It's annoying but I can manage. Please help.",hardware,P3,desktop_support
+Add me to distribution list,we need a shared mailbox for the new events team. No rush. Thanks.,email,P4,applications
+Not receiving email,"Hello IT, Outlook hasn't synced new mail since yesterday. This is blocking me completely. Cheers",email,P2,applications
+Teams crashes on start,"Good morning, Excel crashes whenever I open large files. This is blocking me completely. Thanks.",software,P2,desktop_support
+Defender detected threat,"Good morning, my computer shows a warning that a threat was quarantined. Not urgent, I can use another machine. Please help.",security,P2,security_ops
+Can't reach internal site,"Hi, internal sites time out but google works. This is blocking me completely. Thanks.",network,P2,network_ops
+Software install request,please install Power BI Desktop.,software,P4,desktop_support
+New keyboard please,"Hello IT, my keyboard's letters are worn off, can I get a new one.  Cheers",hardware,P4,desktop_support
+Teams crashes on start,"Hey team, Teams closes itself right after launching. Everyone in accounting is seeing this. Thanks.",software,P2,desktop_support
+Locked out of my account,"I can't get past the login screen, it says the account is disabled. Not urgent, I can use another machine. Thanks.",access,P3,identity
+Password reset question,how often do we have to change passwords?. Whenever you get a chance. Please help.,access,P4,service_desk
+Need access to shared drive,"Hey team, please add me to the Marketing SharePoint site.  Thanks in advance!",access,P4,identity
+ERP report failing,Salesforce opportunity pages just spin forever. It's annoying but I can manage.,software,P3,applications
+software install request,"Good morning, I need Visio installed for a project.  Please help.",software,P4,desktop_support
+Add me to distribution list,"Good morning, we need a shared mailbox for the new events team.  Please help.",email,P4,applications
+Defender detected threat,antivirus popped up saying ransomware behaviour blocked. This is happening company-wide. Please help.,security,P1,security_ops
+No internet,"Hi, Wi-Fi keeps dropping in the meeting rooms. I can't do any work until this is fixed. Thanks in advance!",network,P2,network_ops
+Add me to distribution list,"Hey team, we need a shared mailbox for the new events team. Whenever you get a chance. Thanks in advance!",email,P4,applications
+Can't log in to Windows,"Hi, it says my account is locked when I sign in. It's annoying but I can manage. Thanks.",access,P3,identity
+Antivirus warning,"Hi, antivirus popped up saying ransomware behaviour blocked. I can work around it for now. Cheers",security,P2,security_ops
+Opened attachment,"Hello IT, I think I typed my credentials into a phishing page. It's annoying but I can manage. Please help.",security,P2,security_ops
+Need access to shared drive,"Hey team, could I get read access to the Finance shared folder. Whenever you get a chance. Cheers",access,P4,identity
+I entered my password on a fake page,"Hi, it's not working again, please help. I can't do any work until this is fixed.",security,P2,security_ops
+Black screen on boot,the screen stays black after the logo. My whole team has the same problem. Please help.,hardware,P2,desktop_support
+no internet,no internet on my wired connection since this morning. This is happening company-wide. Thanks in advance!,network,P1,network_ops
+Laptop won't turn on,"Hi, the screen stays black after the logo. My whole team has the same problem. Thanks.",hardware,P2,desktop_support
+Teams crashes on start,"Hey team, Excel crashes whenever I open large files. It's annoying but I can manage. Thanks.",software,P3,desktop_support
+MFA not working,"Hi, I changed phones and can't approve MFA prompts anymore. My whole team has the same problem. Please help.",access,P2,identity
+erp report failing,"Good morning, Workday throws an error when I submit my timesheet. I can't do any work until this is fixed. Cheers",software,P2,applications
+Not receiving email,"Hi, emails sit in my outbox and never send. I can work around it for now.",email,P3,applications
+no internet,"Hey team, Wi-Fi keeps dropping in the meeting rooms. Not urgent, I can use another machine. Thanks.",network,P3,network_ops
+"New phone, lost MFA",MFA push notifications never arrive. I'm totally stuck. Thanks.,access,P2,identity
+Access to Jira project,I need permission to the new Jira project for onboarding. Whenever you get a chance.,access,P4,identity
+Black screen on boot,"Hello IT, laptop shuts off randomly after a few minutes. My whole team has the same problem. Cheers",hardware,P2,desktop_support
+Question about Teams channels,"Hello IT, how do I share a OneDrive file with someone outside the company?. No rush. Thanks.",software,P4,service_desk
+Authenticator codes rejected,"Hey team, MFA push notifications never arrive. This is blocking me completely. Thanks.",access,P2,identity
+New shared mailbox request,"Good morning, we need a shared mailbox for the new events team.  Cheers",email,P4,applications
+Calendar invites missing,"Hey team, the shared support mailbox disappeared from Outlook. Not urgent, I can use another machine.",email,P3,applications
+Shared mailbox gone,"Hello IT, I'm getting mailbox full warnings and can't send. I can work around it for now. Cheers",email,P3,applications
+Access to Jira project,"Hey team, I need permission to the new Jira project for onboarding. Whenever you get a chance. Cheers",access,P4,identity
+ERP report failing,the month-end ERP report fails with a timeout. I can't do any work until this is fixed.,software,P2,applications
+Laptop won't turn on,"my laptop won't power on even when plugged in. Not urgent, I can use another machine. Cheers",hardware,P3,desktop_support
+GlobalProtect error,the VPN disconnects every ten minutes. I'm totally stuck. Thanks in advance!,network,P2,network_ops
+Need access to shared drive,could I get read access to the Finance shared folder.  Please help.,access,P4,identity
+Authenticator codes rejected,MFA push notifications never arrive. About ten of us are affected. Cheers,access,P2,identity
+"new phone, lost mfa","Good morning, the authenticator app codes keep getting rejected. My whole team has the same problem.",access,P2,identity
+Headset request,"Hi, my keyboard's letters are worn off, can I get a new one. No rush. Cheers",hardware,P4,desktop_support
+Dock issue,"Good morning, the dock stopped charging my laptop. I'm totally stuck. Thanks in advance!",hardware,P2,desktop_support
+Login from another country,"Good morning, I got an MFA prompt I didn't trigger. I can work around it for now. Thanks in advance!",security,P2,security_ops
+New shared mailbox request,"Hello IT, we need a shared mailbox for the new events team. Whenever you get a chance. Thanks in advance!",email,P4,applications
+Antivirus warning,"Hi, my computer shows a warning that a threat was quarantined. I can't do any work until this is fixed. Please help.",security,P2,security_ops
+teams crashes on start,"Hello IT, it's not working again, please help. This is blocking me completely. Cheers",software,P2,desktop_support
+Laptop dead,"Hello IT, my laptop won't power on even when plugged in. I can't do any work until this is fixed.",hardware,P2,desktop_support
+Adobe won't open,Acrobat freezes and then closes when opening PDFs. I'm totally stuck. Please help.,software,P2,desktop_support
+Laptop dead,"Hello IT, the screen stays black after the logo. My whole team has the same problem.",hardware,P2,desktop_support
+Suspicious email,"Hi, received an invoice email with a zip attachment from someone I don't know. Not urgent, I can use another machine. Please help.",security,P3,security_ops
+suspicious email,"Good morning, received an invoice email with a zip attachment from someone I don't know. I can't do any work until this is fixed. Please help.",security,P3,security_ops
+Authenticator codes rejected,I changed phones and can't approve MFA prompts anymore. About ten of us are affected. Thanks.,access,P2,identity
+Clicked a bad link,"Hello IT, it's not working again, please help. About ten of us are affected. Cheers",security,P1,security_ops
+Need Visio,"Hey team, please install Power BI Desktop. No rush. Please help.",software,P4,desktop_support
+Weird login link,"Hi, got an email asking me to verify my payroll login through a strange link. Not urgent, I can use another machine. Thanks.",security,P3,security_ops
+Not receiving email,"Hey team, I'm not receiving any external emails. Not urgent, I can use another machine. Cheers",email,P3,applications
+Laptop won't turn on,"Good morning, the screen stays black after the logo. This is blocking me completely. Thanks.",hardware,P2,desktop_support
+calendar invites missing,"Good morning, meeting invites don't show up in my calendar. Not urgent, I can use another machine.",email,P3,applications
+No internet,no internet on my wired connection since this morning. This is blocking me completely. Thanks in advance!,network,P2,network_ops
+Question about Teams channels,"Hi, same problem as last week, still broken. Whenever you get a chance. Thanks in advance!",software,P4,service_desk
+Need access to shared drive,"Good morning, I need permission to the new Jira project for onboarding. No rush. Thanks.",access,P4,identity
+Workday error,"Hey team, the month-end ERP report fails with a timeout. I can't do any work until this is fixed.",software,P2,applications
+Add me to distribution list,"Hello IT, please add me to the all-engineering distribution list.  Cheers",email,P4,applications
+Black screen on boot,"Good morning, laptop shuts off randomly after a few minutes. This is blocking me completely.",hardware,P2,desktop_support
+authenticator codes rejected,"Hey team, the authenticator app codes keep getting rejected. Everyone in accounting is seeing this.",access,P2,identity
+Login from another country,I'm getting login approval requests at 3am that aren't me. Everyone in accounting is seeing this.,security,P1,security_ops
+Antivirus warning,Defender flagged a trojan on my machine. All sites are reporting it right now. Thanks in advance!,security,P1,security_ops
+opened attachment,"Good morning, I clicked a link in an email and entered my password before realizing it was fake. It's annoying but I can manage.",security,P2,security_ops
+Shared mailbox gone,"Hello IT, the shared support mailbox disappeared from Outlook. I'm totally stuck. Thanks in advance!",email,P2,applications
+Workday error,"Hey team, Salesforce opportunity pages just spin forever. I can work around it for now.",software,P3,applications
+Excel keeps crashing,Excel crashes whenever I open large files. This is blocking me completely. Please help.,software,P2,desktop_support
+Unrecognized MFA prompt,"Hi, I'm getting login approval requests at 3am that aren't me. This is blocking me completely. Please help.",security,P2,security_ops
+I entered my password on a fake page,"Good morning, I opened an attachment and now my laptop is acting strange. I can't do any work until this is fixed. Cheers",security,P2,security_ops
+Printer jammed,"Hey team, printer shows offline for everyone on the floor. I'm totally stuck. Thanks.",hardware,P2,desktop_support
+Suspicious email,an email from 'IT Support' wants my password to keep my mailbox active. It's annoying but I can manage. Thanks.,security,P3,security_ops
+Black screen on boot,"Hello IT, my laptop won't power on even when plugged in. About ten of us are affected. Please help.",hardware,P2,desktop_support
+Defender detected threat,"Hi, antivirus popped up saying ransomware behaviour blocked. I can work around it for now.",security,P2,security_ops
+Opened attachment,"Hi, I opened an attachment and now my laptop is acting strange. I'm totally stuck. Thanks.",security,P2,security_ops
+How to share a OneDrive file,"Good morning, how do I create a private channel in Teams?. No rush. Please help.",software,P4,service_desk
+How to share a OneDrive file,"Hi, how do I create a private channel in Teams?. Whenever you get a chance. Thanks.",software,P4,service_desk
+wi-fi down,"Hi, no internet on my wired connection since this morning. The entire office is affected. Thanks.",network,P1,network_ops
+Intranet unreachable,"Hey team, internal sites time out but google works. This is blocking me completely. Please help.",network,P2,network_ops
+Opened attachment,"Good morning, I opened an attachment and now my laptop is acting strange. About ten of us are affected. Cheers",security,P1,security_ops
+Defender detected threat,Defender flagged a trojan on my machine. This is blocking me completely. Thanks.,security,P2,security_ops
+GlobalProtect error,VPN says gateway not responding. I'm totally stuck. Thanks.,network,P2,network_ops
+VPN keeps dropping,the VPN disconnects every ten minutes. This is blocking me completely. Cheers,network,P2,network_ops
+intranet unreachable,"Good morning, internal sites time out but google works. It's annoying but I can manage. Cheers",network,P3,network_ops
+no internet,"Hi, no internet on my wired connection since this morning. Not urgent, I can use another machine. Please help.",network,P3,network_ops
+need visio,please install Power BI Desktop.,software,P4,desktop_support
+Intranet unreachable,"Good morning, internal sites time out but google works. It's annoying but I can manage. Cheers",network,P3,network_ops
+GlobalProtect error,"Good morning, the VPN disconnects every ten minutes. I can work around it for now. Thanks.",network,P3,network_ops
+Laptop won't turn on,"Hey team, laptop shuts off randomly after a few minutes. Not urgent, I can use another machine. Thanks in advance!",hardware,P3,desktop_support
+Password reset question,"Hello IT, how often do we have to change passwords?. No rush.",access,P4,service_desk
+Not receiving email,"Good morning, Outlook hasn't synced new mail since yesterday. This is blocking me completely. Please help.",email,P2,applications
+Can't reach internal site,"Hello IT, can't reach the file server by name. I can't do any work until this is fixed. Cheers",network,P2,network_ops
+Printer jammed,"Hi, the printer keeps saying paper jam but there's no paper stuck. It's annoying but I can manage.",hardware,P3,desktop_support
+I entered my password on a fake page,"Hi, I opened an attachment and now my laptop is acting strange. The entire office is affected. Thanks.",security,P1,security_ops
+Opened attachment,"Hi, I think I typed my credentials into a phishing page. I'm totally stuck. Please help.",security,P2,security_ops
+How to share a OneDrive file,"Hey team, how do I share a OneDrive file with someone outside the company?. Whenever you get a chance.",software,P4,service_desk
+Add me to distribution list,"Hello IT, we need a shared mailbox for the new events team. Whenever you get a chance. Thanks in advance!",email,P4,applications
+Calendar invites missing,"Good morning, I'm getting mailbox full warnings and can't send. I can work around it for now.",email,P3,applications
+Opened attachment,"Good morning, I opened an attachment and now my laptop is acting strange. This is blocking me completely. Cheers",security,P2,security_ops
+Black screen on boot,"Hey team, laptop shuts off randomly after a few minutes. I'm totally stuck. Thanks.",hardware,P2,desktop_support
+Headset request,"Hey team, it's not working again, please help. No rush.",hardware,P4,desktop_support
+Can't print,"Hi, printer shows offline for everyone on the floor. This is blocking me completely.",hardware,P2,desktop_support
+ERP report failing,Workday throws an error when I submit my timesheet. I'm totally stuck.,software,P2,applications
+Software install request,please install Power BI Desktop.  Thanks.,software,P4,desktop_support
+Need Visio,"Hi, I need Visio installed for a project. Whenever you get a chance. Please help.",software,P4,desktop_support
+Intranet unreachable,internal sites time out but google works. This is blocking me completely. Cheers,network,P2,network_ops
+login from another country,"Hello IT, I'm getting login approval requests at 3am that aren't me. I can't do any work until this is fixed. Thanks in advance!",security,P2,security_ops
+Laptop dead,"Hi, my laptop won't power on even when plugged in. This is blocking me completely. Cheers",hardware,P2,desktop_support
+Dock issue,"Hello IT, my external monitors aren't detected through the dock. About ten of us are affected.",hardware,P2,desktop_support
+Permission request: Finance folder,"Hello IT, could I get read access to the Finance shared folder. Whenever you get a chance. Thanks.",access,P4,identity
+docking station not detecting monitors,"Hey team, both monitors flicker every few seconds. My whole team has the same problem. Cheers",hardware,P2,desktop_support
+Not receiving email,"Good morning, Outlook hasn't synced new mail since yesterday. Not urgent, I can use another machine. Thanks in advance!",email,P3,applications
+Laptop won't turn on,laptop shuts off randomly after a few minutes. I can't do any work until this is fixed. Please help.,hardware,P2,desktop_support
+Calendar invites missing,"Good morning, meeting invites don't show up in my calendar. I can't do any work until this is fixed.",email,P2,applications
+MFA not working,"Good morning, MFA push notifications never arrive. Everyone in accounting is seeing this. Thanks in advance!",access,P2,identity
+Printer offline,"Hey team, the printer keeps saying paper jam but there's no paper stuck. Not urgent, I can use another machine.",hardware,P3,desktop_support
+Monitors flicker,my external monitors aren't detected through the dock. It's annoying but I can manage. Thanks.,hardware,P3,desktop_support
+New shared mailbox request,"Hello IT, we need a shared mailbox for the new events team. No rush. Cheers",email,P4,applications
+permission request: finance folder,I need permission to the new Jira project for onboarding. Whenever you get a chance. Thanks.,access,P4,identity
+Suspicious sign-in,"Hi, I got an MFA prompt I didn't trigger. I can't do any work until this is fixed. Cheers",security,P2,security_ops
+defender detected threat,"Hi, my computer shows a warning that a threat was quarantined. This is blocking me completely. Cheers",security,P2,security_ops
+Intranet unreachable,"Hey team, the intranet site won't resolve. It's annoying but I can manage. Thanks in advance!",network,P3,network_ops
+DNS issue,"Good morning, the intranet site won't resolve. The entire office is affected. Thanks in advance!",network,P1,network_ops
+VPN won't connect,"Hello IT, GlobalProtect is stuck on connecting. This is happening company-wide. Please help.",network,P1,network_ops
+Permission request: Finance folder,"Hi, could I get read access to the Finance shared folder. Whenever you get a chance. Thanks in advance!",access,P4,identity
+Opened attachment,I clicked a link in an email and entered my password before realizing it was fake. This is blocking me completely. Thanks in advance!,security,P2,security_ops
+Permission request: Finance folder,"Hey team, I need permission to the new Jira project for onboarding. Whenever you get a chance. Thanks.",access,P4,identity
+Add me to distribution list,"Good morning, same problem as last week, still broken. Whenever you get a chance. Please help.",email,P4,applications
+Slow network,no internet on my wired connection since this morning. I can't do any work until this is fixed. Cheers,network,P2,network_ops
+How do I change my password?,"Hey team, what's the process to reset my password myself?.  Thanks.",access,P4,service_desk
+VPN won't connect,"Hey team, GlobalProtect is stuck on connecting. It's annoying but I can manage. Thanks in advance!",network,P3,network_ops
+Suspicious sign-in,I got an MFA prompt I didn't trigger. I can work around it for now. Thanks.,security,P2,security_ops
+Intranet unreachable,"Hi, internal sites time out but google works. I'm totally stuck. Thanks in advance!",network,P2,network_ops
+Login from another country,"Good morning, my account shows a sign-in from another country. About ten of us are affected.",security,P1,security_ops
+shared mailbox gone,"Good morning, meeting invites don't show up in my calendar. My whole team has the same problem.",email,P2,applications
+New shared mailbox request,"Hi, please add me to the all-engineering distribution list. Whenever you get a chance. Please help.",email,P4,applications
+GlobalProtect error,"Good morning, the VPN disconnects every ten minutes. About ten of us are affected. Thanks.",network,P2,network_ops
+Outlook not syncing,"Hi, Outlook hasn't synced new mail since yesterday. This is blocking me completely. Thanks in advance!",email,P2,applications
+suspicious sign-in,"Hey team, can someone call me about this issue. It's annoying but I can manage. Thanks.",security,P2,security_ops
+Antivirus warning,"Hey team, antivirus popped up saying ransomware behaviour blocked. Everyone in accounting is seeing this. Cheers",security,P1,security_ops
+Shared mailbox gone,"Hi, I'm getting mailbox full warnings and can't send. About ten of us are affected. Please help.",email,P2,applications
+Phishing?,"Good morning, received an invoice email with a zip attachment from someone I don't know. It's annoying but I can manage. Cheers",security,P3,security_ops
+"New phone, lost MFA",I changed phones and can't approve MFA prompts anymore. My whole team has the same problem. Thanks.,access,P2,identity
+Shared mailbox gone,the shared support mailbox disappeared from Outlook. I'm totally stuck. Thanks.,email,P2,applications
+unrecognized mfa prompt,"Hello IT, I got an MFA prompt I didn't trigger. I'm totally stuck. Cheers",security,P2,security_ops
+Need Visio,"Hey team, could you install Python 3 on my laptop. Whenever you get a chance. Cheers",software,P4,desktop_support
+No internet,"Good morning, no internet on my wired connection since this morning. I can work around it for now. Thanks in advance!",network,P3,network_ops
+Phishing?,got an email asking me to verify my payroll login through a strange link. I'm totally stuck. Thanks in advance!,security,P3,security_ops
+clicked a bad link,"Hello IT, I opened an attachment and now my laptop is acting strange. I can't do any work until this is fixed. Thanks in advance!",security,P2,security_ops
+Teams crashes on start,"Good morning, Teams closes itself right after launching. I can work around it for now. Thanks.",software,P3,desktop_support
+How to share a OneDrive file,"Hi, how do I create a private channel in Teams?.  Cheers",software,P4,service_desk
+Install Python,"Hi, could you install Python 3 on my laptop.  Please help.",software,P4,desktop_support
+No internet,"Hi, Wi-Fi keeps dropping in the meeting rooms. I'm totally stuck. Cheers",network,P2,network_ops
+How to share a OneDrive file,"Hey team, can someone call me about this issue. No rush. Please help.",software,P4,service_desk
+add me to distribution list,"Hey team, we need a shared mailbox for the new events team.  Thanks in advance!",email,P4,applications
+Wi-Fi down,"Hello IT, no internet on my wired connection since this morning. This is happening company-wide. Cheers",network,P1,network_ops
+MFA not working,"Hello IT, MFA push notifications never arrive. This is blocking me completely. Thanks in advance!",access,P2,identity
+How do I change my password?,"Hi, what's the process to reset my password myself?. Whenever you get a chance. Cheers",access,P4,service_desk
+Shared mailbox gone,I'm getting mailbox full warnings and can't send. I can't do any work until this is fixed.,email,P2,applications
+Account locked,"Hi, my account got locked after a few wrong password attempts. I'm totally stuck. Thanks in advance!",access,P2,identity
+MFA not working,"Hi, MFA push notifications never arrive. It's annoying but I can manage. Cheers",access,P3,identity
+Password reset question,"Good morning, how often do we have to change passwords?. Whenever you get a chance. Thanks.",access,P4,service_desk
+Monitors flicker,"Hello IT, both monitors flicker every few seconds. I can't do any work until this is fixed. Please help.",hardware,P2,desktop_support
+Login from another country,my account shows a sign-in from another country. I can work around it for now. Please help.,security,P2,security_ops
+Authenticator codes rejected,"Hi, I changed phones and can't approve MFA prompts anymore. I can work around it for now. Cheers",access,P3,identity
+Antivirus warning,"Defender flagged a trojan on my machine. Not urgent, I can use another machine. Please help.",security,P2,security_ops
+password reset question,"Hello IT, how often do we have to change passwords?. No rush. Please help.",access,P4,service_desk
+Outlook not syncing,"Hello IT, I'm not receiving any external emails. I can't do any work until this is fixed. Thanks.",email,P2,applications
+GlobalProtect error,"Hey team, VPN says gateway not responding. This is blocking me completely.",network,P2,network_ops
+Account locked,"Good morning, I can't get past the login screen, it says the account is disabled. About ten of us are affected. Thanks in advance!",access,P2,identity
+erp report failing,"Good morning, Workday throws an error when I submit my timesheet. I'm totally stuck. Thanks in advance!",software,P2,applications
+DNS issue,"Hi, can someone call me about this issue. It's annoying but I can manage. Thanks in advance!",network,P3,network_ops
+how do i change my password?,"Hey team, what's the process to reset my password myself?. No rush. Thanks.",access,P4,service_desk
+Printer jammed,print jobs sit in the queue and never print. The entire office is affected. Cheers,hardware,P1,desktop_support
+Not receiving email,"Hello IT, it's not working again, please help. The entire office is affected.",email,P1,applications
+Can't print,"Good morning, print jobs sit in the queue and never print. I'm totally stuck. Thanks.",hardware,P2,desktop_support
+Request: second monitor,could I get a second monitor for my desk.  Please help.,hardware,P4,desktop_support
+Clicked a bad link,"Hello IT, it's not working again, please help. My whole team has the same problem.",security,P1,security_ops
+Dock issue,"Good morning, my external monitors aren't detected through the dock. My whole team has the same problem. Cheers",hardware,P2,desktop_support
+Printer offline,"Hello IT, printer shows offline for everyone on the floor. Everyone in accounting is seeing this.",hardware,P2,desktop_support
+Weird login link,"Good morning, got an email asking me to verify my payroll login through a strange link. I can't do any work until this is fixed. Thanks.",security,P3,security_ops
+How do I change my password?,"Hello IT, how often do we have to change passwords?. Whenever you get a chance. Cheers",access,P4,service_desk
+Headset request,"Good morning, could I get a second monitor for my desk. No rush. Please help.",hardware,P4,desktop_support
+Account locked,"Good morning, my account got locked after a few wrong password attempts. I can work around it for now. Thanks in advance!",access,P3,identity
+Not receiving email,"Hey team, Outlook hasn't synced new mail since yesterday. It's annoying but I can manage. Please help.",email,P3,applications
+Dock issue,"Good morning, the dock stopped charging my laptop. I can work around it for now.",hardware,P3,desktop_support
+ERP report failing,"Good morning, the month-end ERP report fails with a timeout. I can work around it for now.",software,P3,applications
+Add me to distribution list,"Hello IT, we need a shared mailbox for the new events team.",email,P4,applications
+Black screen on boot,the screen stays black after the logo. I can't do any work until this is fixed.,hardware,P2,desktop_support
+workday error,"Hey team, the month-end ERP report fails with a timeout. It's annoying but I can manage.",software,P3,applications
+"New phone, lost MFA",the authenticator app codes keep getting rejected. I can work around it for now.,access,P3,identity
+Intranet unreachable,"Hello IT, can't reach the file server by name. I can't do any work until this is fixed. Thanks.",network,P2,network_ops
+Install Python,"Hi, could you install Python 3 on my laptop. No rush. Please help.",software,P4,desktop_support
+Permission request: Finance folder,"Hi, can someone call me about this issue. Whenever you get a chance. Thanks.",access,P4,identity
+Can't reach internal site,"Hello IT, internal sites time out but google works. This is blocking me completely. Thanks in advance!",network,P2,network_ops
+Laptop won't turn on,"Hey team, laptop shuts off randomly after a few minutes. This is blocking me completely. Please help.",hardware,P2,desktop_support
+Install Python,"Good morning, I need Visio installed for a project.  Thanks.",software,P4,desktop_support
+Add me to distribution list,"Hey team, please add me to the all-engineering distribution list. Whenever you get a chance. Thanks.",email,P4,applications
+DNS issue,"Hi, the intranet site won't resolve. Everyone in accounting is seeing this. Thanks in advance!",network,P2,network_ops
+headset request,"Hey team, could I get a second monitor for my desk.",hardware,P4,desktop_support
+Not receiving email,I'm not receiving any external emails. It's annoying but I can manage. Please help.,email,P3,applications
+Access to Jira project,"Hi, could I get read access to the Finance shared folder.  Thanks.",access,P4,identity
+Headset request,"Hello IT, could I get a second monitor for my desk. No rush. Thanks.",hardware,P4,desktop_support
+Weird login link,"Hi, received an invoice email with a zip attachment from someone I don't know. Not urgent, I can use another machine. Please help.",security,P3,security_ops
+Question about Teams channels,"Good morning, something is wrong with my computer.",software,P4,service_desk
+Adobe won't open,Acrobat freezes and then closes when opening PDFs. I can't do any work until this is fixed. Cheers,software,P2,desktop_support
+"New phone, lost MFA","Hello IT, MFA push notifications never arrive. I can't do any work until this is fixed. Please help.",access,P2,identity
+Question about Teams channels,how do I share a OneDrive file with someone outside the company?.  Cheers,software,P4,service_desk
+Printer jammed,"Good morning, printer shows offline for everyone on the floor. I can work around it for now. Thanks.",hardware,P3,desktop_support
+new keyboard please,"Hey team, my keyboard's letters are worn off, can I get a new one. Whenever you get a chance. Thanks in advance!",hardware,P4,desktop_support
+Question about Teams channels,how do I create a private channel in Teams?. Whenever you get a chance. Please help.,software,P4,service_desk
+Unrecognized MFA prompt,my account shows a sign-in from another country. This is blocking me completely. Thanks.,security,P2,security_ops
+Can't reach internal site,the intranet site won't resolve. I can't do any work until this is fixed.,network,P2,network_ops
+Password reset question,"Good morning, what's the process to reset my password myself?. No rush.",access,P4,service_desk
+Unrecognized MFA prompt,I got an MFA prompt I didn't trigger. This is blocking me completely. Thanks in advance!,security,P2,security_ops
+Locked out of my account,"Hello IT, I can't get past the login screen, it says the account is disabled. This is blocking me completely. Please help.",access,P2,identity
+Mailbox full,"Hello IT, the shared support mailbox disappeared from Outlook. I'm totally stuck. Thanks.",email,P2,applications
+New keyboard please,"my keyboard's letters are worn off, can I get a new one. Whenever you get a chance. Thanks.",hardware,P4,desktop_support
+Can't reach internal site,"Hi, can't reach the file server by name. All sites are reporting it right now. Thanks.",network,P1,network_ops
+Suspicious sign-in,"Good morning, I got an MFA prompt I didn't trigger. I can work around it for now. Thanks.",security,P2,security_ops
+how to share a onedrive file,"Hello IT, how do I share a OneDrive file with someone outside the company?.  Thanks in advance!",software,P4,service_desk
+Intranet unreachable,"Hey team, the intranet site won't resolve. I can't do any work until this is fixed. Please help.",network,P2,network_ops
+DNS issue,"Good morning, the intranet site won't resolve. It's annoying but I can manage. Thanks in advance!",network,P3,network_ops
+ERP report failing,"Good morning, the month-end ERP report fails with a timeout. All sites are reporting it right now. Please help.",software,P1,applications
+how do i change my password?,how often do we have to change passwords?. No rush. Thanks in advance!,access,P4,service_desk
+Clicked a bad link,"Good morning, same problem as last week, still broken. This is blocking me completely. Cheers",security,P2,security_ops
+Excel keeps crashing,"Excel crashes whenever I open large files. Not urgent, I can use another machine. Cheers",software,P3,desktop_support
+emails stuck in outbox,"Hello IT, I'm not receiving any external emails. I can't do any work until this is fixed. Please help.",email,P2,applications
+No internet,"Hello IT, no internet on my wired connection since this morning. This is blocking me completely. Please help.",network,P2,network_ops
+Need access to shared drive,"Hey team, I need permission to the new Jira project for onboarding. Whenever you get a chance. Please help.",access,P4,identity
+Slow network,"Hi, no internet on my wired connection since this morning. It's annoying but I can manage. Thanks.",network,P3,network_ops
+Shared mailbox gone,meeting invites don't show up in my calendar. All sites are reporting it right now.,email,P1,applications
+Teams crashes on start,"Hi, Excel crashes whenever I open large files. I'm totally stuck. Thanks.",software,P2,desktop_support
+VPN keeps dropping,"Hello IT, GlobalProtect is stuck on connecting. This is blocking me completely. Please help.",network,P2,network_ops
+Can't reach internal site,"Hey team, the intranet site won't resolve. My whole team has the same problem.",network,P2,network_ops
+ERP report failing,Workday throws an error when I submit my timesheet. I'm totally stuck.,software,P2,applications
+Outlook not syncing,"Hey team, I'm not receiving any external emails. Everyone in accounting is seeing this. Thanks in advance!",email,P2,applications
+Not receiving email,"Hello IT, Outlook hasn't synced new mail since yesterday. I'm totally stuck. Thanks.",email,P2,applications
+Laptop dead,the screen stays black after the logo. My whole team has the same problem. Thanks in advance!,hardware,P2,desktop_support
+Antivirus warning,Defender flagged a trojan on my machine. It's annoying but I can manage. Cheers,security,P2,security_ops
+Malware alert,"Hello IT, Defender flagged a trojan on my machine. I can't do any work until this is fixed. Thanks in advance!",security,P2,security_ops
+How to share a OneDrive file,"Hello IT, something is wrong with my computer. No rush. Please help.",software,P4,service_desk
+Docking station not detecting monitors,"Good morning, my external monitors aren't detected through the dock. I can work around it for now. Cheers",hardware,P3,desktop_support
+Mailbox full,I'm getting mailbox full warnings and can't send. I can't do any work until this is fixed.,email,P2,applications
+Account locked,"Hey team, it says my account is locked when I sign in. This is blocking me completely. Cheers",access,P2,identity
+Install Python,"Hi, it's not working again, please help. Whenever you get a chance. Thanks.",software,P4,desktop_support
+Black screen on boot,my laptop won't power on even when plugged in. I can't do any work until this is fixed. Please help.,hardware,P2,desktop_support
+password reset question,how often do we have to change passwords?. Whenever you get a chance. Thanks.,access,P4,service_desk
+Unrecognized MFA prompt,I'm getting login approval requests at 3am that aren't me. I can work around it for now.,security,P2,security_ops
+Locked out of my account,"Hi, my account got locked after a few wrong password attempts. The entire office is affected. Thanks.",access,P1,identity
+Locked out of my account,"Hello IT, my account got locked after a few wrong password attempts. About ten of us are affected. Thanks in advance!",access,P2,identity
+Mailbox full,"Good morning, it's not working again, please help. It's annoying but I can manage. Thanks.",email,P3,applications
+Workday error,"Hi, Salesforce opportunity pages just spin forever. It's annoying but I can manage. Cheers",software,P3,applications
+Emails stuck in outbox,I'm not receiving any external emails. This is blocking me completely. Thanks.,email,P2,applications
+VPN keeps dropping,"Hello IT, VPN says gateway not responding. This is blocking me completely.",network,P2,network_ops
+Calendar invites missing,the shared support mailbox disappeared from Outlook. Everyone in accounting is seeing this.,email,P2,applications
+How do I change my password?,"Hello IT, what's the process to reset my password myself?. Whenever you get a chance. Please help.",access,P4,service_desk
+No internet,"Hey team, no internet on my wired connection since this morning. I can work around it for now. Thanks in advance!",network,P3,network_ops
+login from another country,"I'm getting login approval requests at 3am that aren't me. Not urgent, I can use another machine.",security,P2,security_ops
+GlobalProtect error,"Hi, GlobalProtect is stuck on connecting. All sites are reporting it right now.",network,P1,network_ops
+Printer offline,"Hey team, the printer keeps saying paper jam but there's no paper stuck. This is blocking me completely. Please help.",hardware,P2,desktop_support
+Weird login link,"Hello IT, an email from 'IT Support' wants my password to keep my mailbox active. Everyone in accounting is seeing this. Please help.",security,P3,security_ops
+VPN keeps dropping,"Hello IT, GlobalProtect is stuck on connecting. Not urgent, I can use another machine. Please help.",network,P3,network_ops
+Malware alert,"Hey team, Defender flagged a trojan on my machine. I can work around it for now.",security,P2,security_ops
+GlobalProtect error,GlobalProtect is stuck on connecting. This is blocking me completely.,network,P2,network_ops
+Shared mailbox gone,"Good morning, the shared support mailbox disappeared from Outlook. It's annoying but I can manage. Thanks in advance!",email,P3,applications
+Add me to distribution list,please add me to the all-engineering distribution list. Whenever you get a chance. Please help.,email,P4,applications
+VPN keeps dropping,"Hello IT, the VPN disconnects every ten minutes. I can work around it for now. Thanks.",network,P3,network_ops
+Laptop dead,"Hey team, laptop shuts off randomly after a few minutes. I can't do any work until this is fixed. Cheers",hardware,P2,desktop_support
+Phishing?,"Hey team, an email from 'IT Support' wants my password to keep my mailbox active. I can't do any work until this is fixed. Thanks in advance!",security,P3,security_ops
+globalprotect error,GlobalProtect is stuck on connecting. This is blocking me completely. Cheers,network,P2,network_ops
+Question about Teams channels,how do I share a OneDrive file with someone outside the company?.  Please help.,software,P4,service_desk
+Question about Teams channels,"Hi, how do I create a private channel in Teams?. No rush. Thanks.",software,P4,service_desk
+Suspicious email,"Hi, received an invoice email with a zip attachment from someone I don't know. Not urgent, I can use another machine.",security,P3,security_ops
+authenticator codes rejected,"Hey team, MFA push notifications never arrive. Everyone in accounting is seeing this. Thanks in advance!",access,P2,identity
+not receiving email,"Hello IT, Outlook hasn't synced new mail since yesterday. This is happening company-wide. Cheers",email,P1,applications
+Outlook not syncing,"Hello IT, I'm not receiving any external emails. This is blocking me completely. Thanks.",email,P2,applications
+Question about Teams channels,how do I share a OneDrive file with someone outside the company?. Whenever you get a chance. Cheers,software,P4,service_desk
+Excel keeps crashing,"Good morning, Teams closes itself right after launching. This is happening company-wide.",software,P1,desktop_support
+Suspicious email,"Good morning, received an invoice email with a zip attachment from someone I don't know. I can't do any work until this is fixed. Please help.",security,P3,security_ops
+How to share a OneDrive file,"Hey team, how do I create a private channel in Teams?.  Cheers",software,P4,service_desk
+No internet,"Good morning, no internet on my wired connection since this morning. This is blocking me completely. Thanks.",network,P2,network_ops
+Defender detected threat,"Hey team, my computer shows a warning that a threat was quarantined. Everyone in accounting is seeing this. Thanks in advance!",security,P1,security_ops
+New shared mailbox request,"Hey team, please add me to the all-engineering distribution list.  Thanks.",email,P4,applications
+Login from another country,"Hey team, my account shows a sign-in from another country. I can't do any work until this is fixed. Thanks in advance!",security,P2,security_ops
+Malware alert,antivirus popped up saying ransomware behaviour blocked. I can't do any work until this is fixed. Thanks.,security,P2,security_ops
+New keyboard please,"Hey team, my keyboard's letters are worn off, can I get a new one. Whenever you get a chance. Please help.",hardware,P4,desktop_support
+MFA not working,"Hello IT, the authenticator app codes keep getting rejected. I can work around it for now. Cheers",access,P3,identity
+"New phone, lost MFA",I changed phones and can't approve MFA prompts anymore. My whole team has the same problem. Thanks in advance!,access,P2,identity
+Permission request: Finance folder,please add me to the Marketing SharePoint site.  Please help.,access,P4,identity
+Laptop won't turn on,"Good morning, my laptop won't power on even when plugged in. I'm totally stuck. Cheers",hardware,P2,desktop_support
+Shared mailbox gone,"Hello IT, the shared support mailbox disappeared from Outlook. My whole team has the same problem. Thanks in advance!",email,P2,applications
+GlobalProtect error,"GlobalProtect is stuck on connecting. Not urgent, I can use another machine. Thanks.",network,P3,network_ops
+Teams crashes on start,something is wrong with my computer. It's annoying but I can manage. Thanks in advance!,software,P3,desktop_support
+not receiving email,"Hello IT, Outlook hasn't synced new mail since yesterday. The entire office is affected. Thanks in advance!",email,P1,applications
+Clicked a bad link,"Hi, I think I typed my credentials into a phishing page. I can't do any work until this is fixed. Thanks in advance!",security,P2,security_ops
+Salesforce page won't load,"Hi, Salesforce opportunity pages just spin forever. I'm totally stuck. Please help.",software,P2,applications
+VPN keeps dropping,"Hi, the VPN disconnects every ten minutes. I can work around it for now. Please help.",network,P3,network_ops
+Antivirus warning,"Hey team, Defender flagged a trojan on my machine. I can work around it for now. Please help.",security,P2,security_ops
+need visio,"Hello IT, I need Visio installed for a project. No rush. Cheers",software,P4,desktop_support
+Slow network,"the network is extremely slow, pages take a minute to load. Everyone in accounting is seeing this.",network,P2,network_ops
+Dock issue,"Hello IT, same problem as last week, still broken. My whole team has the same problem. Thanks in advance!",hardware,P2,desktop_support
+Password reset question,"Hi, how often do we have to change passwords?.  Cheers",access,P4,service_desk
+Software install request,"Hi, I need Visio installed for a project.  Cheers",software,P4,desktop_support
+Workday error,"Hey team, Workday throws an error when I submit my timesheet. I can't do any work until this is fixed. Cheers",software,P2,applications
+Can't log in to Windows,"Hey team, I can't get past the login screen, it says the account is disabled. I can't do any work until this is fixed. Thanks.",access,P2,identity
+Docking station not detecting monitors,both monitors flicker every few seconds. I'm totally stuck. Thanks in advance!,hardware,P2,desktop_support

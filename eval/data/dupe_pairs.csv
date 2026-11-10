@@ -1,0 +1,601 @@
+text_a,text_b,is_duplicate
+"Wi-Fi down
+Good morning, something is wrong with my computer. This is blocking me completely. Please help.","slow network
+something is wrong with my computer. My whole team has the same problem.",1
+"New phone, lost MFA
+I changed phones and can't approve MFA prompts anymore. My whole team has the same problem. Thanks.","question about teams channels
+how do I create a private channel in Teams?. Whenever you get a chance. Thanks in advance!",0
+"password reset question
+Good morning, same problem as last week, still broken. Whenever you get a chance. Please help.","Need access to shared drive
+same problem as last week, still broken. No rush.",1
+"Opened attachment
+Hey team, I clicked a link in an email and entered my password before realizing it was fake. I'm totally stuck. Thanks in advance!","ERP report failing
+Hi, Workday throws an error when I submit my timesheet. Not urgent, I can use another machine. Thanks.",0
+"Intranet unreachable
+the intranet site won't resolve. This is blocking me completely. Please help.","DNS issue
+Good morning, the intranet site won't resolve. It's annoying but I can manage. Thanks in advance!",1
+"How to share a OneDrive file
+how do I create a private channel in Teams?. No rush.","Login from another country
+Hi, I got an MFA prompt I didn't trigger. I can work around it for now. Thanks.",0
+"suspicious sign-in
+Hey team, can someone call me about this issue. It's annoying but I can manage. Thanks.","Unrecognized MFA prompt
+Hey team, can someone call me about this issue. I can't do any work until this is fixed. Please help.",1
+"VPN won't connect
+Hi, VPN says gateway not responding. My whole team has the same problem. Thanks.","New shared mailbox request
+Hey team, please add me to the all-engineering distribution list.  Thanks.",0
+"DNS issue
+Hi, the intranet site won't resolve. Everyone in accounting is seeing this. Thanks in advance!","Intranet unreachable
+the intranet site won't resolve. This is blocking me completely. Please help.",1
+"Locked out of my account
+Hello IT, my account got locked after a few wrong password attempts. About ten of us are affected. Thanks in advance!","not receiving email
+Hello IT, I'm not receiving any external emails. About ten of us are affected. Thanks.",0
+"DNS issue
+Good morning, it's not working again, please help. Not urgent, I can use another machine. Cheers","No internet
+it's not working again, please help. I'm totally stuck. Please help.",1
+"New shared mailbox request
+we need a shared mailbox for the new events team. Whenever you get a chance. Please help.","Can't reach internal site
+Hi, can't reach the file server by name. All sites are reporting it right now. Thanks.",0
+"Add me to distribution list
+Good morning, please add me to the all-engineering distribution list.  Thanks.","New shared mailbox request
+Good morning, please add me to the all-engineering distribution list. No rush.",1
+"Permission request: Finance folder
+Hi, could I get read access to the Finance shared folder. Whenever you get a chance. Please help.","Wi-Fi down
+Good morning, no internet on my wired connection since this morning. This is blocking me completely. Please help.",0
+"Printer offline
+Good morning, same problem as last week, still broken. It's annoying but I can manage.","Laptop dead
+Good morning, same problem as last week, still broken. Not urgent, I can use another machine. Thanks.",1
+"calendar invites missing
+Hello IT, the shared support mailbox disappeared from Outlook. Not urgent, I can use another machine. Thanks in advance!","ERP report failing
+Salesforce opportunity pages just spin forever. It's annoying but I can manage.",0
+"not receiving email
+Hi, emails sit in my outbox and never send. I can work around it for now.","Not receiving email
+Hi, emails sit in my outbox and never send. I'm totally stuck. Please help.",1
+"Clicked a bad link
+Hey team, I opened an attachment and now my laptop is acting strange. I can't do any work until this is fixed. Thanks.","Laptop dead
+Hello IT, laptop shuts off randomly after a few minutes. Not urgent, I can use another machine.",0
+"Dock issue
+Hello IT, my external monitors aren't detected through the dock. About ten of us are affected.","Docking station not detecting monitors
+Good morning, my external monitors aren't detected through the dock. I'm totally stuck.",1
+"Outlook not syncing
+Hi, Outlook hasn't synced new mail since yesterday. This is blocking me completely. Thanks in advance!","Request: second monitor
+could I get a second monitor for my desk. Whenever you get a chance. Cheers",0
+"Excel keeps crashing
+Excel crashes whenever I open large files. This is blocking me completely. Please help.","Teams crashes on start
+Good morning, Excel crashes whenever I open large files. This is blocking me completely. Thanks.",1
+"New shared mailbox request
+Good morning, please add me to the all-engineering distribution list. No rush.","Salesforce page won't load
+Hi, Salesforce opportunity pages just spin forever. This is happening company-wide.",0
+"Suspicious email
+Hi, received an invoice email with a zip attachment from someone I don't know. Not urgent, I can use another machine.","Weird login link
+Hi, received an invoice email with a zip attachment from someone I don't know. This is blocking me completely. Cheers",1
+"Dock issue
+Hello IT, the dock stopped charging my laptop. I'm totally stuck. Thanks in advance!","Password reset question
+Hello IT, what's the process to reset my password myself?.  Cheers",0
+"Calendar invites missing
+Hi, meeting invites don't show up in my calendar. I'm totally stuck. Thanks in advance!","Shared mailbox gone
+meeting invites don't show up in my calendar. I'm totally stuck. Thanks in advance!",1
+"New shared mailbox request
+Good morning, we need a shared mailbox for the new events team.  Cheers","I entered my password on a fake page
+Hi, I opened an attachment and now my laptop is acting strange. The entire office is affected. Thanks.",0
+"VPN won't connect
+Hello IT, can someone call me about this issue. It's annoying but I can manage.","DNS issue
+Hi, can someone call me about this issue. It's annoying but I can manage. Thanks in advance!",1
+"Suspicious email
+an email from 'IT Support' wants my password to keep my mailbox active. I'm totally stuck. Please help.","slow network
+something is wrong with my computer. My whole team has the same problem.",0
+"Printer offline
+Good morning, same problem as last week, still broken. It's annoying but I can manage.","Dock issue
+Hello IT, same problem as last week, still broken. My whole team has the same problem. Thanks in advance!",1
+"MFA not working
+Hello IT, MFA push notifications never arrive. It's annoying but I can manage. Cheers","Opened attachment
+Hi, I think I typed my credentials into a phishing page. I'm totally stuck. Please help.",0
+"How to share a OneDrive file
+Hi, it's not working again, please help.  Thanks.","Install Python
+Hi, it's not working again, please help. Whenever you get a chance. Thanks.",1
+"Password reset question
+how often do we have to change passwords?. Whenever you get a chance. Please help.","Add me to distribution list
+Hey team, we need a shared mailbox for the new events team.  Thanks.",0
+"Phishing?
+Hey team, got an email asking me to verify my payroll login through a strange link. The entire office is affected. Cheers","Weird login link
+got an email asking me to verify my payroll login through a strange link. It's annoying but I can manage. Please help.",1
+"Defender detected threat
+Good morning, my computer shows a warning that a threat was quarantined. I'm totally stuck. Thanks.","Install Python
+Good morning, please install Power BI Desktop. Whenever you get a chance. Thanks in advance!",0
+"Intranet unreachable
+Hey team, can't reach the file server by name. All sites are reporting it right now. Cheers","Intranet unreachable
+Hello IT, can't reach the file server by name. I'm totally stuck. Thanks.",1
+"New keyboard please
+Good morning, my keyboard's letters are worn off, can I get a new one. Whenever you get a chance. Cheers","shared mailbox gone
+Good morning, meeting invites don't show up in my calendar. My whole team has the same problem.",0
+"install python
+Hey team, can someone call me about this issue. Whenever you get a chance. Please help.","Excel keeps crashing
+Hey team, can someone call me about this issue. I'm totally stuck. Cheers",1
+"Intranet unreachable
+the intranet site won't resolve. I'm totally stuck. Please help.","workday error
+Hello IT, Workday throws an error when I submit my timesheet. I can't do any work until this is fixed. Please help.",0
+"Wi-Fi down
+Good morning, no internet on my wired connection since this morning. This is blocking me completely. Please help.","slow network
+Good morning, no internet on my wired connection since this morning. About ten of us are affected. Thanks.",1
+"Add me to distribution list
+Hi, please add me to the all-engineering distribution list.  Cheers","need visio
+Hello IT, I need Visio installed for a project. No rush. Cheers",0
+"Excel keeps crashing
+Hi, Teams closes itself right after launching. I can't do any work until this is fixed. Thanks in advance!","Teams crashes on start
+Hey team, Teams closes itself right after launching. Everyone in accounting is seeing this. Thanks.",1
+"not receiving email
+Hello IT, I'm not receiving any external emails. About ten of us are affected. Thanks.","Workday error
+Hey team, Workday throws an error when I submit my timesheet. I can't do any work until this is fixed. Cheers",0
+"Suspicious email
+Good morning, got an email asking me to verify my payroll login through a strange link. I'm totally stuck. Please help.","Suspicious email
+Hello IT, got an email asking me to verify my payroll login through a strange link. It's annoying but I can manage. Thanks.",1
+"Question about Teams channels
+Hi, same problem as last week, still broken. No rush. Please help.","i entered my password on a fake page
+Hey team, I think I typed my credentials into a phishing page. I'm totally stuck. Cheers",0
+"Authenticator codes rejected
+Good morning, same problem as last week, still broken. This is blocking me completely. Cheers","password reset question
+Good morning, same problem as last week, still broken. Whenever you get a chance. Please help.",1
+"Password reset question
+Good morning, how often do we have to change passwords?. Whenever you get a chance. Thanks.","Login from another country
+Good morning, I'm getting login approval requests at 3am that aren't me. It's annoying but I can manage. Please help.",0
+"opened attachment
+Good morning, I clicked a link in an email and entered my password before realizing it was fake. It's annoying but I can manage.","Clicked a bad link
+Good morning, I clicked a link in an email and entered my password before realizing it was fake. I'm totally stuck. Cheers",1
+"Weird login link
+Hi, received an invoice email with a zip attachment from someone I don't know. This is blocking me completely. Cheers","Opened attachment
+I opened an attachment and now my laptop is acting strange. Not urgent, I can use another machine.",0
+"I entered my password on a fake page
+Hello IT, I clicked a link in an email and entered my password before realizing it was fake. All sites are reporting it right now. Please help.","Opened attachment
+Hello IT, I clicked a link in an email and entered my password before realizing it was fake. I can't do any work until this is fixed. Thanks in advance!",1
+"Clicked a bad link
+Good morning, I opened an attachment and now my laptop is acting strange. Not urgent, I can use another machine.","Question about Teams channels
+Hello IT, how do I share a OneDrive file with someone outside the company?. Whenever you get a chance. Cheers",0
+"Outlook not syncing
+Hi, it's not working again, please help. Not urgent, I can use another machine. Cheers","Add me to distribution list
+Hi, it's not working again, please help.  Cheers",1
+"How do I change my password?
+Hey team, what's the process to reset my password myself?.  Thanks.","How do I change my password?
+something is wrong with my computer. No rush. Cheers",0
+"Authenticator codes rejected
+Good morning, same problem as last week, still broken. This is blocking me completely. Cheers","password reset question
+Good morning, same problem as last week, still broken. Whenever you get a chance. Please help.",1
+"add me to distribution list
+Hi, please add me to the all-engineering distribution list. No rush. Cheers","New keyboard please
+Hey team, could I get a second monitor for my desk.  Thanks in advance!",0
+"Monitors flicker
+Hello IT, both monitors flicker every few seconds. I can't do any work until this is fixed. Please help.","docking station not detecting monitors
+Hey team, both monitors flicker every few seconds. My whole team has the same problem. Cheers",1
+"Clicked a bad link
+Hey team, I opened an attachment and now my laptop is acting strange. My whole team has the same problem. Thanks in advance!","Defender detected threat
+Good morning, my computer shows a warning that a threat was quarantined. I'm totally stuck. Thanks.",0
+"Intranet unreachable
+Hey team, internal sites time out but google works. I'm totally stuck. Please help.","Intranet unreachable
+Hi, internal sites time out but google works. It's annoying but I can manage. Thanks.",1
+"Password reset question
+Hi, what's the process to reset my password myself?. Whenever you get a chance. Please help.","I entered my password on a fake page
+Hey team, I opened an attachment and now my laptop is acting strange. Not urgent, I can use another machine.",0
+"Can't reach internal site
+Hey team, the intranet site won't resolve. My whole team has the same problem.","intranet unreachable
+Good morning, the intranet site won't resolve. Everyone in accounting is seeing this. Cheers",1
+"Clicked a bad link
+Hi, I think I typed my credentials into a phishing page. This is blocking me completely. Please help.","Weird login link
+Hello IT, an email from 'IT Support' wants my password to keep my mailbox active. Everyone in accounting is seeing this. Please help.",0
+"Clicked a bad link
+Hello IT, it's not working again, please help. My whole team has the same problem.","Clicked a bad link
+Hello IT, it's not working again, please help. About ten of us are affected. Cheers",1
+"Locked out of my account
+Hi, my account got locked after a few wrong password attempts. The entire office is affected. Thanks.","Salesforce page won't load
+Hey team, Workday throws an error when I submit my timesheet. My whole team has the same problem. Cheers",0
+"Wi-Fi down
+Good morning, something is wrong with my computer. This is blocking me completely. Please help.","slow network
+something is wrong with my computer. My whole team has the same problem.",1
+"question about teams channels
+how do I create a private channel in Teams?. Whenever you get a chance. Thanks in advance!","Install Python
+Hi, could you install Python 3 on my laptop. No rush. Please help.",0
+"New phone, lost MFA
+Hi, MFA push notifications never arrive. About ten of us are affected. Please help.","MFA not working
+Good morning, MFA push notifications never arrive. Everyone in accounting is seeing this. Thanks in advance!",1
+"Mailbox full
+Hey team, the shared support mailbox disappeared from Outlook. I'm totally stuck. Please help.","MFA not working
+I changed phones and can't approve MFA prompts anymore. My whole team has the same problem. Please help.",0
+"Unrecognized MFA prompt
+Hey team, can someone call me about this issue. I can't do any work until this is fixed. Please help.","Login from another country
+Hey team, can someone call me about this issue. I'm totally stuck. Please help.",1
+"Password reset question
+Hi, how often do we have to change passwords?. No rush. Please help.","Access to Jira project
+Hi, could I get read access to the Finance shared folder. No rush.",0
+"Shared mailbox gone
+Hi, I'm getting mailbox full warnings and can't send. About ten of us are affected. Please help.","Calendar invites missing
+Good morning, I'm getting mailbox full warnings and can't send. I can work around it for now.",1
+"Opened attachment
+Hello IT, I think I typed my credentials into a phishing page. It's annoying but I can manage. Please help.","Salesforce page won't load
+Hi, Salesforce opportunity pages just spin forever. Not urgent, I can use another machine. Please help.",0
+"Monitors flicker
+my external monitors aren't detected through the dock. Not urgent, I can use another machine. Please help.","Dock issue
+Hello IT, my external monitors aren't detected through the dock. It's annoying but I can manage.",1
+"Emails stuck in outbox
+Hi, Outlook hasn't synced new mail since yesterday. I can work around it for now. Thanks in advance!","How do I change my password?
+Hello IT, how often do we have to change passwords?. Whenever you get a chance. Thanks in advance!",0
+"Printer jammed
+Hey team, printer shows offline for everyone on the floor. I'm totally stuck. Thanks.","Printer jammed
+Hi, printer shows offline for everyone on the floor. I can work around it for now. Thanks.",1
+"no internet
+no internet on my wired connection since this morning. This is happening company-wide. Thanks in advance!","Defender detected threat
+Defender flagged a trojan on my machine. This is blocking me completely. Thanks.",0
+"Malware alert
+Hey team, Defender flagged a trojan on my machine. I can't do any work until this is fixed.","Antivirus warning
+Hello IT, Defender flagged a trojan on my machine. I can work around it for now. Cheers",1
+"Intranet unreachable
+Hey team, internal sites time out but google works. This is blocking me completely. Please help.","Adobe won't open
+Acrobat freezes and then closes when opening PDFs. I'm totally stuck. Please help.",0
+"GlobalProtect error
+VPN says gateway not responding. I'm totally stuck. Thanks.","VPN keeps dropping
+Hello IT, VPN says gateway not responding. This is blocking me completely.",1
+"Shared mailbox gone
+I'm getting mailbox full warnings and can't send. I can't do any work until this is fixed.","ERP report failing
+Good morning, the month-end ERP report fails with a timeout. All sites are reporting it right now. Please help.",0
+"Wi-Fi down
+Good morning, something is wrong with my computer. This is blocking me completely. Please help.","slow network
+something is wrong with my computer. My whole team has the same problem.",1
+"Laptop won't turn on
+Good morning, my laptop won't power on even when plugged in. I'm totally stuck. Cheers","No internet
+Good morning, the network is extremely slow, pages take a minute to load. About ten of us are affected.",0
+"Request: second monitor
+could I get a second monitor for my desk. Whenever you get a chance. Cheers","Headset request
+Hey team, could I get a second monitor for my desk. Whenever you get a chance. Cheers",1
+"GlobalProtect error
+Hey team, VPN says gateway not responding. This is blocking me completely.","Clicked a bad link
+Hi, I clicked a link in an email and entered my password before realizing it was fake. It's annoying but I can manage. Please help.",0
+"Laptop won't turn on
+Good morning, the screen stays black after the logo. This is blocking me completely. Thanks.","Black screen on boot
+the screen stays black after the logo. My whole team has the same problem. Please help.",1
+"Need access to shared drive
+Hi, could I get read access to the Finance shared folder. No rush.","New shared mailbox request
+Hi, please add me to the all-engineering distribution list.  Please help.",0
+"No internet
+Hey team, the network is extremely slow, pages take a minute to load. I can't do any work until this is fixed. Please help.","Slow network
+Hello IT, the network is extremely slow, pages take a minute to load. It's annoying but I can manage. Please help.",1
+"Install Python
+Good morning, I need Visio installed for a project.  Thanks.","Teams crashes on start
+something is wrong with my computer. It's annoying but I can manage. Thanks in advance!",0
+"Can't print
+Hey team, the printer keeps saying paper jam but there's no paper stuck. I can't do any work until this is fixed.","Printer jammed
+Hi, the printer keeps saying paper jam but there's no paper stuck. About ten of us are affected. Please help.",1
+"Suspicious email
+Good morning, received an invoice email with a zip attachment from someone I don't know. I can't do any work until this is fixed. Please help.","Can't reach internal site
+can't reach the file server by name. This is happening company-wide. Cheers",0
+"Malware alert
+Hi, antivirus popped up saying ransomware behaviour blocked. I can't do any work until this is fixed. Thanks.","Antivirus warning
+Hey team, antivirus popped up saying ransomware behaviour blocked. Everyone in accounting is seeing this. Cheers",1
+"excel keeps crashing
+Excel crashes whenever I open large files. This is blocking me completely.","Access to Jira project
+Hi, could I get read access to the Finance shared folder. No rush.",0
+"Clicked a bad link
+Hi, I clicked a link in an email and entered my password before realizing it was fake. It's annoying but I can manage. Please help.","opened attachment
+Good morning, I clicked a link in an email and entered my password before realizing it was fake. This is blocking me completely. Please help.",1
+"Mailbox full
+Hey team, the shared support mailbox disappeared from Outlook. I can't do any work until this is fixed. Please help.","emails stuck in outbox
+Hello IT, I'm not receiving any external emails. I can't do any work until this is fixed. Please help.",0
+"Need access to shared drive
+same problem as last week, still broken. No rush.","password reset question
+Good morning, same problem as last week, still broken. Whenever you get a chance. Please help.",1
+"Dock issue
+Hello IT, my external monitors aren't detected through the dock. About ten of us are affected.","Black screen on boot
+Hello IT, laptop shuts off randomly after a few minutes. My whole team has the same problem. Cheers",0
+"Dock issue
+Good morning, the dock stopped charging my laptop. I can work around it for now. Cheers","Dock issue
+Hello IT, the dock stopped charging my laptop. I'm totally stuck. Thanks in advance!",1
+"GlobalProtect error
+Hi, GlobalProtect is stuck on connecting. All sites are reporting it right now.","New phone, lost MFA
+Hi, MFA push notifications never arrive. About ten of us are affected. Please help.",0
+"Workday error
+Hello IT, same problem as last week, still broken. I'm totally stuck. Thanks.","Question about Teams channels
+Hi, same problem as last week, still broken. No rush. Please help.",1
+"Malware alert
+Hi, antivirus popped up saying ransomware behaviour blocked. I can't do any work until this is fixed. Thanks.","Teams crashes on start
+Good morning, Excel crashes whenever I open large files. I'm totally stuck. Thanks.",0
+"Outlook not syncing
+Hi, it's not working again, please help. Not urgent, I can use another machine. Cheers","Not receiving email
+Hello IT, it's not working again, please help. The entire office is affected.",1
+"Clicked a bad link
+Good morning, I think I typed my credentials into a phishing page. This is blocking me completely. Please help.","How do I change my password?
+Hello IT, how often do we have to change passwords?. Whenever you get a chance. Cheers",0
+"Excel keeps crashing
+Excel crashes whenever I open large files. Not urgent, I can use another machine. Cheers","excel keeps crashing
+Excel crashes whenever I open large files. This is blocking me completely.",1
+"Authenticator codes rejected
+MFA push notifications never arrive. About ten of us are affected. Cheers","How to share a OneDrive file
+how do I create a private channel in Teams?. No rush. Thanks in advance!",0
+"Need access to shared drive
+same problem as last week, still broken. No rush.","password reset question
+Good morning, same problem as last week, still broken. Whenever you get a chance. Please help.",1
+"I entered my password on a fake page
+Hey team, I opened an attachment and now my laptop is acting strange. Not urgent, I can use another machine.","add me to distribution list
+Hi, please add me to the all-engineering distribution list. No rush. Cheers",0
+"Question about Teams channels
+Hi, same problem as last week, still broken. No rush. Please help.","Question about Teams channels
+Hi, same problem as last week, still broken. Whenever you get a chance. Thanks in advance!",1
+"Black screen on boot
+Hey team, laptop shuts off randomly after a few minutes. I'm totally stuck. Thanks.","ERP report failing
+Hi, Workday throws an error when I submit my timesheet. Not urgent, I can use another machine. Thanks.",0
+"Clicked a bad link
+Good morning, I clicked a link in an email and entered my password before realizing it was fake. I'm totally stuck. Cheers","opened attachment
+Good morning, I clicked a link in an email and entered my password before realizing it was fake. It's annoying but I can manage.",1
+"Weird login link
+Hi, got an email asking me to verify my payroll login through a strange link. Not urgent, I can use another machine. Thanks.","I entered my password on a fake page
+Good morning, I opened an attachment and now my laptop is acting strange. I can't do any work until this is fixed. Cheers",0
+"Excel keeps crashing
+Hey team, can someone call me about this issue. I'm totally stuck. Cheers","install python
+Hey team, can someone call me about this issue. Whenever you get a chance. Please help.",1
+"Weird login link
+Good morning, received an invoice email with a zip attachment from someone I don't know. It's annoying but I can manage. Cheers","Antivirus warning
+Good morning, Defender flagged a trojan on my machine. I can work around it for now. Please help.",0
+"Software install request
+Hi, I need Visio installed for a project.  Cheers","Software install request
+Good morning, I need Visio installed for a project. No rush. Cheers",1
+"ERP report failing
+Hi, the month-end ERP report fails with a timeout. My whole team has the same problem. Please help.","New shared mailbox request
+Hey team, please add me to the all-engineering distribution list. Whenever you get a chance.",0
+"Monitors flicker
+Hello IT, the dock stopped charging my laptop. This is blocking me completely. Cheers","Monitors flicker
+Hey team, the dock stopped charging my laptop. My whole team has the same problem. Cheers",1
+"Calendar invites missing
+Good morning, the shared support mailbox disappeared from Outlook. I can't do any work until this is fixed. Thanks.","Shared mailbox gone
+meeting invites don't show up in my calendar. Everyone in accounting is seeing this. Thanks.",0
+"Laptop won't turn on
+Hey team, something is wrong with my computer. All sites are reporting it right now. Cheers","Request: second monitor
+Hey team, something is wrong with my computer. Whenever you get a chance. Thanks.",1
+"Unrecognized MFA prompt
+Hi, my account shows a sign-in from another country. It's annoying but I can manage. Cheers","Mailbox full
+Hey team, the shared support mailbox disappeared from Outlook. I'm totally stuck. Please help.",0
+"GlobalProtect error
+GlobalProtect is stuck on connecting. This is blocking me completely.","VPN won't connect
+Hello IT, GlobalProtect is stuck on connecting. I can't do any work until this is fixed. Please help.",1
+"Laptop dead
+laptop shuts off randomly after a few minutes. Everyone in accounting is seeing this. Cheers","DNS issue
+Hi, internal sites time out but google works. Everyone in accounting is seeing this. Please help.",0
+"Clicked a bad link
+Hi, I think I typed my credentials into a phishing page. The entire office is affected. Thanks.","Clicked a bad link
+Hello IT, I think I typed my credentials into a phishing page. I can work around it for now. Thanks in advance!",1
+"intranet unreachable
+Good morning, internal sites time out but google works. It's annoying but I can manage. Cheers","unrecognized mfa prompt
+Hello IT, I got an MFA prompt I didn't trigger. I'm totally stuck. Cheers",0
+"slow network
+something is wrong with my computer. My whole team has the same problem.","Wi-Fi down
+Good morning, something is wrong with my computer. This is blocking me completely. Please help.",1
+"GlobalProtect error
+GlobalProtect is stuck on connecting. All sites are reporting it right now. Thanks in advance!","Defender detected threat
+antivirus popped up saying ransomware behaviour blocked. This is happening company-wide. Please help.",0
+"Software install request
+Hi, I need Visio installed for a project.  Cheers","software install request
+Good morning, I need Visio installed for a project.  Please help.",1
+"Calendar invites missing
+Hi, I'm getting mailbox full warnings and can't send. It's annoying but I can manage. Thanks.","Teams crashes on start
+Hello IT, Acrobat freezes and then closes when opening PDFs. I'm totally stuck. Cheers",0
+"Intranet unreachable
+Hey team, can't reach the file server by name. All sites are reporting it right now. Cheers","Can't reach internal site
+Hi, can't reach the file server by name. All sites are reporting it right now. Thanks.",1
+"globalprotect error
+GlobalProtect is stuck on connecting. This is blocking me completely. Cheers","Docking station not detecting monitors
+Good morning, my external monitors aren't detected through the dock. I'm totally stuck.",0
+"VPN keeps dropping
+Hi, GlobalProtect is stuck on connecting. Everyone in accounting is seeing this. Please help.","VPN keeps dropping
+Hello IT, GlobalProtect is stuck on connecting. This is blocking me completely. Please help.",1
+"Workday error
+Hey team, Workday throws an error when I submit my timesheet. I can't do any work until this is fixed. Cheers","Slow network
+no internet on my wired connection since this morning. I can't do any work until this is fixed. Cheers",0
+"weird login link
+same problem as last week, still broken. I can't do any work until this is fixed. Thanks in advance!","Clicked a bad link
+Good morning, same problem as last week, still broken. This is blocking me completely. Cheers",1
+"Headset request
+Good morning, could I get a second monitor for my desk. No rush. Please help.","I entered my password on a fake page
+Hi, I opened an attachment and now my laptop is acting strange. The entire office is affected. Thanks.",0
+"VPN keeps dropping
+Good morning, VPN says gateway not responding. I can work around it for now. Please help.","VPN won't connect
+Hi, VPN says gateway not responding. My whole team has the same problem. Thanks.",1
+"need visio
+Hello IT, I need Visio installed for a project. No rush. Cheers","Outlook not syncing
+Hey team, I'm not receiving any external emails. Everyone in accounting is seeing this. Thanks in advance!",0
+"Phishing?
+Hey team, an email from 'IT Support' wants my password to keep my mailbox active. About ten of us are affected. Thanks.","Phishing?
+Hey team, an email from 'IT Support' wants my password to keep my mailbox active. My whole team has the same problem. Thanks.",1
+"Weird login link
+Hello IT, received an invoice email with a zip attachment from someone I don't know. I can't do any work until this is fixed. Thanks.","DNS issue
+Hi, can someone call me about this issue. It's annoying but I can manage. Thanks in advance!",0
+"Locked out of my account
+I can't get past the login screen, it says the account is disabled. Not urgent, I can use another machine. Thanks.","Locked out of my account
+Good morning, I can't get past the login screen, it says the account is disabled. I can't do any work until this is fixed. Please help.",1
+"Question about Teams channels
+Good morning, how do I create a private channel in Teams?. No rush. Cheers","Emails stuck in outbox
+Good morning, Outlook hasn't synced new mail since yesterday. Not urgent, I can use another machine. Thanks.",0
+"Defender detected threat
+my computer shows a warning that a threat was quarantined. This is blocking me completely. Thanks.","Malware alert
+my computer shows a warning that a threat was quarantined. I can work around it for now. Cheers",1
+"workday error
+Hello IT, Workday throws an error when I submit my timesheet. I can't do any work until this is fixed. Please help.","MFA not working
+the authenticator app codes keep getting rejected. I'm totally stuck. Please help.",0
+"Clicked a bad link
+Hello IT, it's not working again, please help. My whole team has the same problem.","I entered my password on a fake page
+Hi, it's not working again, please help. I can't do any work until this is fixed.",1
+"How do I change my password?
+Hello IT, how often do we have to change passwords?. Whenever you get a chance. Thanks in advance!","Printer offline
+Hey team, the printer keeps saying paper jam but there's no paper stuck. Not urgent, I can use another machine.",0
+"Printer offline
+Hey team, the printer keeps saying paper jam but there's no paper stuck. This is blocking me completely. Please help.","Printer jammed
+Hi, the printer keeps saying paper jam but there's no paper stuck. It's annoying but I can manage.",1
+"Headset request
+Hi, requesting a headset for Teams calls. No rush. Thanks.","New shared mailbox request
+Hello IT, we need a shared mailbox for the new events team. Whenever you get a chance. Thanks in advance!",0
+"How do I change my password?
+something is wrong with my computer. No rush. Cheers","locked out of my account
+Good morning, something is wrong with my computer. I can't do any work until this is fixed. Thanks in advance!",1
+"Slow network
+Hi, no internet on my wired connection since this morning. It's annoying but I can manage. Thanks.","Software install request
+could you install Python 3 on my laptop. Whenever you get a chance. Cheers",0
+"not receiving email
+Hello IT, I'm not receiving any external emails. About ten of us are affected. Thanks.","Outlook not syncing
+Hello IT, I'm not receiving any external emails. This is blocking me completely. Thanks.",1
+"Intranet unreachable
+internal sites time out but google works. The entire office is affected. Cheers","Laptop dead
+Hey team, the screen stays black after the logo. Not urgent, I can use another machine. Thanks.",0
+"Intranet unreachable
+internal sites time out but google works. The entire office is affected. Cheers","Can't reach internal site
+Good morning, internal sites time out but google works. It's annoying but I can manage. Thanks.",1
+"New keyboard please
+Hey team, my keyboard's letters are worn off, can I get a new one. Whenever you get a chance. Please help.","Can't reach internal site
+Good morning, the intranet site won't resolve. I'm totally stuck.",0
+"Intranet unreachable
+Hey team, the intranet site won't resolve. It's annoying but I can manage. Thanks in advance!","Can't reach internal site
+the intranet site won't resolve. I can't do any work until this is fixed.",1
+"Mailbox full
+Good morning, the shared support mailbox disappeared from Outlook. It's annoying but I can manage. Thanks.","Black screen on boot
+Hello IT, my laptop won't power on even when plugged in. About ten of us are affected. Please help.",0
+"Shared mailbox gone
+meeting invites don't show up in my calendar. Everyone in accounting is seeing this. Thanks.","Calendar invites missing
+Good morning, meeting invites don't show up in my calendar. I can't do any work until this is fixed.",1
+"Malware alert
+antivirus popped up saying ransomware behaviour blocked. I can't do any work until this is fixed. Thanks.","Locked out of my account
+Hello IT, I can't get past the login screen, it says the account is disabled. This is blocking me completely. Please help.",0
+"Access to Jira project
+Good morning, please add me to the Marketing SharePoint site. No rush. Cheers","Need access to shared drive
+Hey team, please add me to the Marketing SharePoint site. Whenever you get a chance.",1
+"New shared mailbox request
+Good morning, please add me to the all-engineering distribution list. No rush.","Laptop won't turn on
+Hey team, laptop shuts off randomly after a few minutes. This is blocking me completely. Please help.",0
+"Intranet unreachable
+Hey team, can't reach the file server by name. All sites are reporting it right now. Cheers","Can't reach internal site
+Hello IT, can't reach the file server by name. I can't do any work until this is fixed. Cheers",1
+"MFA not working
+Hey team, I changed phones and can't approve MFA prompts anymore. I'm totally stuck.","Weird login link
+Hi, it's not working again, please help. I can't do any work until this is fixed.",0
+"Intranet unreachable
+Good morning, internal sites time out but google works. My whole team has the same problem. Thanks in advance!","Intranet unreachable
+Hey team, internal sites time out but google works. I'm totally stuck. Please help.",1
+"Login from another country
+my account shows a sign-in from another country. I can work around it for now. Please help.","Permission request: Finance folder
+Hey team, I need permission to the new Jira project for onboarding. Whenever you get a chance. Thanks.",0
+"Add me to distribution list
+Hey team, we need a shared mailbox for the new events team. Whenever you get a chance. Cheers","Add me to distribution list
+Hello IT, we need a shared mailbox for the new events team. No rush.",1
+"MFA not working
+Hello IT, the authenticator app codes keep getting rejected. I can work around it for now. Cheers","How do I change my password?
+Hello IT, it's not working again, please help. No rush. Thanks in advance!",0
+"New phone, lost MFA
+Hi, I changed phones and can't approve MFA prompts anymore. This is blocking me completely. Thanks in advance!","New phone, lost MFA
+I changed phones and can't approve MFA prompts anymore. My whole team has the same problem. Thanks in advance!",1
+"Suspicious email
+Good morning, received an invoice email with a zip attachment from someone I don't know. About ten of us are affected. Thanks in advance!","Headset request
+Hi, my keyboard's letters are worn off, can I get a new one. Whenever you get a chance. Please help.",0
+"Question about Teams channels
+Good morning, how do I create a private channel in Teams?. Whenever you get a chance. Thanks in advance!","How to share a OneDrive file
+Hey team, how do I create a private channel in Teams?. No rush. Thanks in advance!",1
+"Unrecognized MFA prompt
+Hi, I got an MFA prompt I didn't trigger. I can't do any work until this is fixed. Thanks.","I entered my password on a fake page
+Good morning, I think I typed my credentials into a phishing page. I can't do any work until this is fixed. Thanks.",0
+"New keyboard please
+Hey team, can someone call me about this issue.  Cheers","Docking station not detecting monitors
+Hi, can someone call me about this issue. Not urgent, I can use another machine. Thanks.",1
+"not receiving email
+Hello IT, Outlook hasn't synced new mail since yesterday. This is happening company-wide. Cheers","Laptop won't turn on
+Hey team, something is wrong with my computer. All sites are reporting it right now. Cheers",0
+"Authenticator codes rejected
+I changed phones and can't approve MFA prompts anymore. About ten of us are affected. Thanks.","Authenticator codes rejected
+Hi, I changed phones and can't approve MFA prompts anymore. I can work around it for now. Cheers",1
+"New shared mailbox request
+Hi, we need a shared mailbox for the new events team. Whenever you get a chance. Please help.","GlobalProtect error
+the VPN disconnects every ten minutes. I can work around it for now. Please help.",0
+"How do I change my password?
+Hello IT, what's the process to reset my password myself?. Whenever you get a chance. Please help.","Password reset question
+Hello IT, what's the process to reset my password myself?.  Cheers",1
+"Black screen on boot
+Hello IT, laptop shuts off randomly after a few minutes. The entire office is affected.","I entered my password on a fake page
+I clicked a link in an email and entered my password before realizing it was fake. It's annoying but I can manage. Cheers",0
+"Locked out of my account
+Hi, my account got locked after a few wrong password attempts. The entire office is affected. Thanks.","Locked out of my account
+Hi, my account got locked after a few wrong password attempts. Not urgent, I can use another machine. Thanks.",1
+"suspicious sign-in
+Hey team, can someone call me about this issue. It's annoying but I can manage. Thanks.","New keyboard please
+Hi, my keyboard's letters are worn off, can I get a new one. No rush. Thanks in advance!",0
+"Excel keeps crashing
+Hey team, can someone call me about this issue. I'm totally stuck. Cheers","install python
+Hey team, can someone call me about this issue. Whenever you get a chance. Please help.",1
+"Software install request
+please install Power BI Desktop.","How do I change my password?
+Good morning, how often do we have to change passwords?.  Cheers",0
+"black screen on boot
+Hey team, the screen stays black after the logo. It's annoying but I can manage. Please help.","Black screen on boot
+the screen stays black after the logo. I'm totally stuck. Thanks in advance!",1
+"Printer jammed
+Hey team, printer shows offline for everyone on the floor. I'm totally stuck. Thanks.","Docking station not detecting monitors
+Hi, can someone call me about this issue. Not urgent, I can use another machine. Thanks.",0
+"New shared mailbox request
+Hey team, it's not working again, please help. Whenever you get a chance. Thanks in advance!","Not receiving email
+Hello IT, it's not working again, please help. The entire office is affected.",1
+"Adobe won't open
+Acrobat freezes and then closes when opening PDFs. I'm totally stuck. Please help.","Unrecognized MFA prompt
+Hi, I'm getting login approval requests at 3am that aren't me. This is blocking me completely. Please help.",0
+"Opened attachment
+Good morning, I opened an attachment and now my laptop is acting strange. This is blocking me completely. Cheers","Opened attachment
+Hi, I opened an attachment and now my laptop is acting strange. I'm totally stuck. Thanks.",1
+"How do I change my password?
+Hello IT, how often do we have to change passwords?. Whenever you get a chance. Thanks in advance!","Antivirus warning
+Hi, antivirus popped up saying ransomware behaviour blocked. About ten of us are affected.",0
+"malware alert
+Hello IT, antivirus popped up saying ransomware behaviour blocked. I can't do any work until this is fixed. Thanks in advance!","Defender detected threat
+Hi, antivirus popped up saying ransomware behaviour blocked. I can work around it for now.",1
+"Access to Jira project
+Good morning, please add me to the Marketing SharePoint site. No rush. Cheers","Clicked a bad link
+Hey team, I opened an attachment and now my laptop is acting strange. I can't do any work until this is fixed. Thanks.",0
+"Opened attachment
+Good morning, I opened an attachment and now my laptop is acting strange. This is blocking me completely. Cheers","Clicked a bad link
+Good morning, I opened an attachment and now my laptop is acting strange. My whole team has the same problem. Thanks in advance!",1
+"Suspicious email
+received an invoice email with a zip attachment from someone I don't know. About ten of us are affected. Thanks in advance!","Login from another country
+Hey team, can someone call me about this issue. I'm totally stuck. Please help.",0
+"Account locked
+Hi, my account got locked after a few wrong password attempts. I'm totally stuck. Thanks in advance!","Locked out of my account
+Hi, my account got locked after a few wrong password attempts. The entire office is affected. Thanks.",1
+"password reset question
+Hey team, how often do we have to change passwords?. No rush.","MFA not working
+Hey team, I changed phones and can't approve MFA prompts anymore. I can work around it for now.",0
+"Shared mailbox gone
+Hello IT, the shared support mailbox disappeared from Outlook. I'm totally stuck. Thanks in advance!","shared mailbox gone
+Hey team, the shared support mailbox disappeared from Outlook. I can't do any work until this is fixed. Cheers",1
+"DNS issue
+Good morning, the intranet site won't resolve. It's annoying but I can manage. Thanks in advance!","antivirus warning
+Good morning, antivirus popped up saying ransomware behaviour blocked. My whole team has the same problem. Please help.",0
+"Defender detected threat
+antivirus popped up saying ransomware behaviour blocked. This is happening company-wide. Please help.","Defender detected threat
+antivirus popped up saying ransomware behaviour blocked. Not urgent, I can use another machine. Cheers",1
+"not receiving email
+Hello IT, I'm not receiving any external emails. About ten of us are affected. Thanks.","MFA not working
+Good morning, MFA push notifications never arrive. Everyone in accounting is seeing this. Thanks in advance!",0
+"Not receiving email
+I'm not receiving any external emails. It's annoying but I can manage. Please help.","Outlook not syncing
+Hi, I'm not receiving any external emails. I can work around it for now.",1
+"Login from another country
+I'm getting login approval requests at 3am that aren't me. I'm totally stuck. Thanks.","Need Visio
+Hello IT, please install Power BI Desktop. No rush.",0
+"how do i change my password?
+Hey team, how often do we have to change passwords?. Whenever you get a chance. Thanks in advance!","How do I change my password?
+Hello IT, how often do we have to change passwords?. Whenever you get a chance. Cheers",1
+"Login from another country
+Good morning, I'm getting login approval requests at 3am that aren't me. It's annoying but I can manage. Please help.","Add me to distribution list
+Hello IT, we need a shared mailbox for the new events team. No rush.",0
+"Permission request: Finance folder
+Hello IT, could I get read access to the Finance shared folder. Whenever you get a chance. Thanks.","need access to shared drive
+Hey team, could I get read access to the Finance shared folder. No rush. Thanks.",1
+"I entered my password on a fake page
+Hi, it's not working again, please help. My whole team has the same problem.","Workday error
+Hello IT, Salesforce opportunity pages just spin forever. Everyone in accounting is seeing this. Cheers",0
+"Mailbox full
+Hello IT, can someone call me about this issue. This is blocking me completely. Thanks in advance!","Calendar invites missing
+Good morning, can someone call me about this issue. It's annoying but I can manage. Please help.",1
+"Add me to distribution list
+Good morning, we need a shared mailbox for the new events team. No rush. Thanks.","Can't log in to Windows
+my account got locked after a few wrong password attempts. I can't do any work until this is fixed. Cheers",0
+"Monitors flicker
+Hello IT, both monitors flicker every few seconds. I'm totally stuck. Thanks.","Docking station not detecting monitors
+both monitors flicker every few seconds. I'm totally stuck. Thanks in advance!",1
+"VPN keeps dropping
+Hello IT, VPN says gateway not responding. This is blocking me completely.","MFA not working
+Hello IT, the authenticator app codes keep getting rejected. I can work around it for now. Cheers",0

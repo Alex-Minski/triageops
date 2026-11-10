@@ -1,0 +1,18 @@
+{
+  "_comment": "Example mapping from a public dataset's labels to TriageOps labels. Edit the left-hand side to match the dataset you download. Rows whose label is not listed are dropped.",
+  "category": {
+    "Technical Support": "software",
+    "IT Support": "hardware",
+    "Product Support": "software",
+    "Access": "access",
+    "Network": "network",
+    "Email": "email",
+    "Security": "security"
+  },
+  "priority": {
+    "critical": "P1",
+    "high": "P2",
+    "medium": "P3",
+    "low": "P4"
+  }
+}
