@@ -1,0 +1,6 @@
+{
+  "apiUrl": "https://abc123.execute-api.us-east-1.amazonaws.com/v1/",
+  "region": "us-east-1",
+  "userPoolId": "us-east-1_XXXXXXXXX",
+  "userPoolClientId": "xxxxxxxxxxxxxxxxxxxxxxxxxx"
+}
