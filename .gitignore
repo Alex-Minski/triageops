@@ -1,0 +1,13 @@
+node_modules/
+infra/cdk.out/
+infra/dist/
+frontend/dist/
+frontend/public/config.json
+build/
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.DS_Store
+# Eval results are committed so reported numbers stay reproducible.
+eval/results/embed_cache.json

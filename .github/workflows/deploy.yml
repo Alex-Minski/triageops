@@ -1,0 +1,29 @@
+name: deploy
+
+# Manual deploys only, so a push never spends money by surprise.
+# One-time setup: deploy the TriageOpsGitHubOidc stack (see README), then add its
+# DeployRoleArn as the repository secret AWS_DEPLOY_ROLE_ARN.
+on:
+  workflow_dispatch:
+
+permissions:
+  id-token: write   # lets the job request an OIDC token for AWS
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: production
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.13" }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ secrets.AWS_DEPLOY_ROLE_ARN }}
+          aws-region: us-east-1
+      - run: cd infra && npm ci && cd ../frontend && npm ci
+      - run: make layer frontend
+      - run: cd infra && npx cdk deploy TriageOps --require-approval never --outputs-file ../build/outputs.json
