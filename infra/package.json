@@ -1,0 +1,31 @@
+{
+  "name": "triageops-infra",
+  "version": "0.1.0",
+  "private": true,
+  "bin": { "triageops": "bin/triageops.js" },
+  "scripts": {
+    "build": "tsc",
+    "synth": "cdk synth",
+    "deploy": "cdk deploy TriageOps",
+    "destroy": "cdk destroy TriageOps",
+    "test": "jest"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "2.276.0",
+    "constructs": "^10.4.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "@types/node": "^22.0.0",
+    "aws-cdk": "2.1148.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.0",
+    "ts-node": "^10.9.2",
+    "typescript": "~5.9.0"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "roots": ["<rootDir>/test"],
+    "transform": { "^.+\\.tsx?$": "ts-jest" }
+  }
+}
